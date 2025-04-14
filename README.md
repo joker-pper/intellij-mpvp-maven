@@ -13,6 +13,14 @@ Maven Project Version Plugin, Support Quick Update Version And Show Project Vers
 ### Maven项目版本更新
 
 
+![update-version_en](picture/update-version_en.png)
+
+![update-version_zh](picture/update-version_zh.png)
+
+![update-version-result_en](picture/update-version-result_en.png)
+
+![update-version-result_zh](picture/update-version-result_zh.png)
+
 + 默认策略
 
 必须存在新版本并且变更版本. <br/>
@@ -27,17 +35,45 @@ Maven Project Version Plugin, Support Quick Update Version And Show Project Vers
 
 + 其他
 
-支持必须同一版本 (变更前)
+#### 支持必须同一版本 (变更前)
 
-选中: 项目或依赖版本如果不等于替换之前的版本将跳过替换.
+选中: 当前要进行设置的项目或依赖的版本如果不等于更改之前的版本时将会跳过替换为新版本.
 
-未选中: 新版本会直接替换.
+未选中: 新版本将会直接进行替换.
+
+#### 快照版 (1.3+版本以上支持)
+
+选中：如果新版本输入框的文本值是快照版（以-SNAPSHOT结尾，不区分大小写）则直接作为新版本，反之则以新版本输入框的文本值拼接-SNAPSHOT作为新版本.
+
+未选中: 新版本输入框的文本值直接作为新版本.
+
 
 ### Maven项目版本显示
 
+![show-version_en](picture/show-version_en.png)
+
+![show-version_zh](picture/show-version_zh.png)
+
 + 项目视图展示
 
+![show-version_zh](picture/show-version-project-view.png)
+
 + 结构视图展示
+
+![show-version_zh](picture/show-version-structure-view.png)
+
+
+### 国际化支持
+
+支持英文、中文、简体中文（中国）及中文（台湾）
+
+### 如何激活
+
+搜索微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> 根据菜单链接进行操作
+
+### 使用视频分享
+[【使用IDEA插件MPVP(Maven)进行多模块的更新及显示版本】](https://www.bilibili.com/video/BV18QoLYkEjD?vd_source=05374f268767300c92677818cbbdf95d)
+
 
 ## 群组 Group
 欢迎加qq群550996296进行交流 ~ <br/>
