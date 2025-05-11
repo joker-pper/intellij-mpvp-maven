@@ -1,0 +1,84 @@
+Notice About Third Party Software:
+
+
+     Apache Commons Codec (1.18.0) - Apache-2.0
+     The Apache Commons Codec component contains encoders and decoders for
+formats such as Base16, Base32, Base64, digest, and Hexadecimal. In addition to these
+widely used encoders and decoders, the codec package also maintains a
+collection of phonetic encoding utilities.
+     https://commons.apache.org/proper/commons-codec/
+
+          Apache Commons IO (2.19.0) - Apache-2.0
+          The Apache Commons IO library contains utility classes, stream implementations, file filters,
+file comparators, endian transformation classes, and much more.
+          https://commons.apache.org/proper/commons-io/
+
+        Apache Commons Lang (3.17.0) - Apache-2.0
+        Apache Commons Lang, a package of Java utility classes for the
+classes that are in java.lang's hierarchy, or are considered to be so
+standard as to justify existence in java.lang.
+
+The code is tested using the latest revision of the JDK for supported
+LTS releases: 8, 11, 17 and 21 currently.
+See https://github.com/apache/commons-lang/blob/master/.github/workflows/maven.yml
+
+Please ensure your build environment is up-to-date and kindly report any build issues.
+        https://commons.apache.org/proper/commons-lang/
+
+      Apache Commons Logging (1.2) - The Apache Software License, Version 2.0
+      Apache Commons Logging is a thin adapter allowing configurable bridging to other,
+well known logging systems.
+      http://commons.apache.org/proper/commons-logging/
+
+Apache HttpClient (4.5.14) - Apache License, Version 2.0
+Apache HttpComponents Client
+http://hc.apache.org/httpcomponents-client-ga
+
+Apache HttpClient Cache (4.5.14) - Apache License, Version 2.0
+Apache HttpComponents HttpClient - Cache
+http://hc.apache.org/httpcomponents-client-ga
+
+Apache HttpClient Fluent API (4.5.14) - Apache License, Version 2.0
+Apache HttpComponents Client fluent API
+http://hc.apache.org/httpcomponents-client-ga
+
+Apache HttpClient Mime (4.5.14) - Apache License, Version 2.0
+Apache HttpComponents HttpClient - MIME coded entities
+http://hc.apache.org/httpcomponents-client-ga
+
+Apache HttpClient OSGi bundle (4.5.14) - Apache License, Version 2.0
+Apache HttpComponents Client (OSGi bundle)
+http://hc.apache.org/httpcomponents-client-ga
+
+Apache HttpCore (4.4.16) - Apache License, Version 2.0
+Apache HttpComponents Core (blocking I/O)
+http://hc.apache.org/httpcomponents-core-ga
+
+http-request (1.0.4-SNAPSHOT) - The Apache Software License, Version 2.0
+对httpclient进行一定封装,使一些常规请求操作使用起来更简单
+https://github.com/joker-pper/http-request
+
+Jackson-annotations (2.18.3) - The Apache Software License, Version 2.0
+Core annotations used for value types, used by Jackson data binding package.
+https://github.com/FasterXML/jackson
+
+Jackson-core (2.18.3) - The Apache Software License, Version 2.0
+Core Jackson processing abstractions (aka Streaming API), implementation for JSON
+https://github.com/FasterXML/jackson-core
+
+jackson-databind (2.18.3) - The Apache Software License, Version 2.0
+General data-binding functionality for Jackson: works on core streaming API
+https://github.com/FasterXML/jackson
+
+Project Lombok (1.18.38) - MIT License
+Copyright © 2009-2025 The Project Lombok Authors, licensed under the MIT license.
+https://github.com/projectlombok/lombok
+
+
+-------------------------------------------------------------------------------------------------
+
+Notice Generate Powered By: Gradle License Plugin (0.9.8) - Apache License, Version 2.0
+
+https://github.com/jaredsburrows/gradle-license-plugin
+
+-------------------------------------------------------------------------------------------------
