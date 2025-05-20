@@ -107,6 +107,14 @@ format.pom-path.user.home.str=~
 
 # 序列号是否脱敏
 sensitive-data.machine_serial_numbers=true
+
+# 搜索nexus3查看远程仓库使用新url (配置值存在多个时用,分割) -- 2.1.x新增
+#search.nx3.repository-version-use-new-url=http://localhost:8081/
+#search.nx3.repository-version-use-new-url=http://localhost:8081/,http://localhost:8083/
+
+# 搜索nexus缓存保存周期（单位：分钟，配置值应 > 0，未配置或不合法时使用默认值 360）-- 2.1.x新增
+#search.nx.cache-save-period=360
+
 ```
 
 ### 系统内置语言

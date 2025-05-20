@@ -109,6 +109,14 @@ format.pom-path.user.home.str=~
 
 # machine serial numbers to desensitize?
 sensitive-data.machine_serial_numbers=true
+
+# search for Nexus3.x to view new url for remote repository version usage (when there are multiple values use , split) -- 2.1.x added
+#search.nx3.repository-version-use-new-url=http://localhost:8081/
+#search.nx3.repository-version-use-new-url=http://localhost:8081/,http://localhost:8083/
+
+# search nexus cache save period（Unit: minutes, value should be > 0, use default value 360 when not configured or illegal）-- 2.1.x added
+#search.nx.cache-save-period=360
+
 ```
 
 ### Internal System Language
