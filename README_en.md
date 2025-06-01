@@ -35,7 +35,7 @@ If you find any problems, you can report them and temporarily revert back to the
 <br/>
 
 <span style="color: rgb(255, 76, 65);">
-If you encounter a situation where your project does not support it (possibly in a special scenario), please provide an example (desensitized) so that we can further improve the plugin together~
+If you encounter a situation where your project does not support it (possibly in a special scenario), please provide an example (desensitized) so that we can further improve the plugin together~<br/>
 </span>
 
 
