@@ -34,9 +34,10 @@ Tools > Maven Project Version
 <br/>
 
 <span style="color: rgb(255, 76, 65);">
-如果遇到自己的项目不支持（可能是特殊场景），烦请上报示例（需脱敏），让我们一起进一步完善插件~<br/> 
+如果遇到自己的项目不支持（可能是特殊场景），烦请上报示例（需脱敏），让我们一起进一步完善插件~
 </span>
-
+<br/>
+<br/>
 
 ![update-version_zh](picture/update-version_zh.png)
 
