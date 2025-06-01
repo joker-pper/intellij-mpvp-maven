@@ -19,6 +19,25 @@ Tools > Maven Project Version
 
 ### Maven Project Version Update
 
+Whether it's a snapshot version or a release version, simply input and submit with one click to easily help you upgrade or roll back version values (no longer have to worry and spend a lot of time adjusting version values). We will also show you the specific details of the modifications~Simplify your workflow and save you a lot of valuable time!
+
+<b>Note:</b>
+
+Firstly, it is recommended that everyone use a version management tool (backup) when modifying versions. Whether or not this plugin is used for version changes, quick recovery or rollback can be performed in case of problems!!!
+
+This feature relies on Maven data read by Idea. If your POM has changed, you need to refresh it before using this feature.
+
+<span style="color: #cb1414;">
+If you are using it for the first time, we recommend that you first use the <b>version management tool (backup)</b> to verify whether the plugin is perfectly compatible with your project scenario (refer to the previous prompt). <br/><br/>
+When there is a major adjustment to this feature (in subsequent versions starting from 25.06.01), we will first attempt to release a version with the plugin "xxx-beat" and display the feature update identifier (including the update date) on the user interface. If you find that the feature update identifier has changed after upgrading the version, you will need to re verify it again to ensure that the upgraded feature meets expectations and avoid any inconvenience. 
+If you find any problems, you can report them and temporarily revert back to the version before the change. <br/>
+</span>
+<br/>
+
+<span style="color: rgb(255, 76, 65);">
+If you encounter a situation where your project does not support it (possibly in a special scenario), please provide an example (desensitized) so that we can further improve the plugin together~
+</span>
+
 
 ![update-version_en](picture/update-version_en.png)
 
@@ -54,27 +73,35 @@ If Not Checked: The text value in the new version input box is directly used as 
 
 ### Maven Project Version Show
 
+You can directly display version values in the project view, knowing the current version at a glance and providing the ability to customize display rules (the ${v} is a fixed version value expression).
+
 ![show-version_en](picture/show-version_en.png)
 
-+ project view
+#### project view
 
 ![show-version-project-view](picture/show-version-project-view.png)
 
-+ structure view
+#### structure view
 
 ![show-version-structure-view.png](picture/show-version-structure-view.png)
 
 ### Maven Project Version Search
 
-Support version queries for both Central Repository and Nexus Repository (remote/private), including copying coordinates and viewing version detail pages
+Support querying the latest dependency versions of the Central Repository, as well as quickly querying the dependency versions of the Nexus Repository (remote/private).
 
-+ Central Repository
+Provide convenient search capabilities (Maven pom configuration or Gradle dependency configuration can be querying after pasting, or querying by keywords), 
+
+One click copying of dependency coordinates, quick viewing of version detail pages, etc. Welcome to experience it~
+
+Simplify your workflow and save you a lot of valuable time! (Continuously updated and optimized! Welcome to provide optimization suggestions~)
+
+#### Central Repository
 
 ![search-version-central_en](picture/search-version-central_en.png)
 
 ![search-version-central-result_en](picture/search-version-central-result_en.png)
 
-+ Nexus Repository (remote/private)
+#### Nexus Repository (remote/private)
 
 ![search-version-nexus_en](picture/search-version-nexus_en.png)
 
@@ -133,8 +160,9 @@ You can use the default language of the system or specify the language to be use
 
 ## How to activate it?
 
-Search WeChat official account <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> (<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">Click to view QR code</a>) Operate according to the menu link 
+Search WeChat official account <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> (<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">Click to view QR code</a>) Operate according to the menu link
 
+<span style="color: red">Note: </span>If there is any problem, you can send a message directly on the WeChat official account to leave a message
 
 ## Use video sharing
 

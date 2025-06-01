@@ -19,6 +19,24 @@ Tools > Maven Project Version
 
 ### Maven项目版本更新
 
+无论是快照版还是release版，输入后提交一键轻松帮您搞定版本值升级或回退（再也不用头疼和花费大量时间调整版本值啦）。还会为您展示修改的具体细节~ 简化您的工作流程，为您节省大量宝贵时间！
+
+<b>注：</b>
+
+首先建议大家在修改版本时一定要使用版本管理工具（备份），无论是否使用这款插件进行版本更改，都可以在出现问题时进行快速恢复或回滚！！！
+
+该功能依赖idea读取的Maven数据，如您的pom发生了变更，需要先刷新完成后再使用该功能。
+
+<span style="color: #cb1414;">
+如果您是首次使用，建议您先使用<b>版本管理工具（备份）</b>验证插件是否完美契合自己的项目场景（参考上条）。<br/><br/>
+当该功能发生<b>重大调整时(25.06.01日起后续版本)</b>（会先尝试发布插件为 “xxx-beat” 的版本）并在操作界面展示<b>功能更新标识（含更新日期）</b>。您此时在<b>升级版本后若发现功能更新标识变更，为了保证升级后的功能符合预期需要您再次重新验证</b>以免对您造成困扰。如果发现存在问题您可进行上报和先临时回退使用变更前的版本。<br/>
+</span>
+<br/>
+
+<span style="color: rgb(255, 76, 65);">
+如果遇到自己的项目不支持（可能是特殊场景），烦请上报示例（需脱敏），让我们一起进一步完善插件~ 
+</span>
+
 
 ![update-version_zh](picture/update-version_zh.png)
 
@@ -53,27 +71,34 @@ Tools > Maven Project Version
 
 ### Maven项目版本显示
 
+可直接在项目视图中展示版本值，一眼便能知晓当下版本~ 并提供自定义展示规则能力（其中${v}为固定版本值表达式）。
+
 ![show-version_zh](picture/show-version_zh.png)
 
-+ 项目视图展示
+#### 项目视图展示
 
 ![show-version-project-view](picture/show-version-project-view.png)
 
-+ 结构视图展示
+#### 结构视图展示
 
 ![show-version-structure-view.png](picture/show-version-structure-view.png)
 
 ### Maven项目版本搜索
 
-支持中央仓库和Nexus仓库(远程/私服)的版本查询，可进行复制坐标、查看版本详情页等
+支持查询中央仓库最新依赖版本，也可以快速查询Nexus仓库(远程/私服)依赖版本。 
 
-+ 中央仓库
+提供便捷式搜索能力(Maven pom配置或Gradle依赖配置粘贴后即可查询，也可通过关键字进行查询)，
+一键复制依赖坐标，快速查看版本详情页等，欢迎上手体验~ 
+
+简化您的工作流程，为您节省大量宝贵时间！(持续更新优化！欢迎提供优化建议~)
+
+#### 中央仓库
 
 ![search-version-central_zh](picture/search-version-central_zh.png)
 
 ![search-version-central-result_zh](picture/search-version-central-result_zh.png)
 
-+ Nexus仓库 (远程/私服)
+#### Nexus仓库 (远程/私服)
 
 ![search-version-nexus_zh](picture/search-version-nexus_zh.png)
 
@@ -132,6 +157,8 @@ sensitive-data.machine_serial_numbers=true
 ## 如何激活？
 
 搜索微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）根据菜单链接进行操作
+
+<span style="color: red">注：</span>如有问题，您可直接在公众号发送消息进行留言
 
 ## 使用视频分享
 
