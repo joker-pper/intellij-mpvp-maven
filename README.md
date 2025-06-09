@@ -2,11 +2,11 @@
 
 [![jetbrains_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/24176-mpvp-maven?label=plugin%20downloads&color=green)](https://plugins.jetbrains.com/plugin/24176-mpvp-maven-)
 
-[![lang-中文](https://img.shields.io/badge/lang-中文-success)](./README.md)
+[![lang-中文](https://img.shields.io/badge/lang-中文-success)](https://github.com/joker-pper/intellij-mpvp-maven/blob/main/README.md)
 
-[![lang-English](https://img.shields.io/badge/lang-English-success)](./README_en.md)
+[![lang-English](https://img.shields.io/badge/lang-English-success)](https://github.com/joker-pper/intellij-mpvp-maven/blob/main/README_en.md)
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-blue)](./LICENSE.md)
+[![LICENSE](https://img.shields.io/badge/LICENSE-blue)](https://github.com/joker-pper/intellij-mpvp-maven/blob/main/LICENSE.md)
 
 
 Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索.
