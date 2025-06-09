@@ -1,7 +1,7 @@
 # MPVP(maven) - Maven Project Version Plugin
 
 [![jetbrains_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/24176-mpvp-maven?label=plugin%20downloads&color=green)](https://plugins.jetbrains.com/plugin/24176-mpvp-maven-)
-[<img alt="lang-中文" src="https://img.shields.io/badge/lang-中文-success"/>](./)
+[<img alt="lang-中文" src="https://img.shields.io/badge/lang-中文-success"/>](./README.md)
 [<img alt="lang-English" src="https://img.shields.io/badge/lang-English-success"/>](./README_en.md)
 [<img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-blue"/>](./LICENSE.md)
 
@@ -21,7 +21,7 @@ Maven Project Version Plugin, Support Quick Update Version And Show Project Vers
 
 预计发布时间: <span style="color: red">250715</span>
 
-详情： [戳这里直达](docs/Next.md)
+详情: [戳这里直达](docs/Next.md)
 
 ## 优惠活动
 

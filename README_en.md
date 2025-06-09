@@ -1,7 +1,7 @@
 # MPVP(maven) - Maven Project Version Plugin
 
 [![jetbrains_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/24176-mpvp-maven?label=plugin%20downloads&color=green)](https://plugins.jetbrains.com/plugin/24176-mpvp-maven-)
-[<img alt="lang-中文" src="https://img.shields.io/badge/lang-中文-success"/>](./)
+[<img alt="lang-中文" src="https://img.shields.io/badge/lang-中文-success"/>](./README.md)
 [<img alt="lang-English" src="https://img.shields.io/badge/lang-English-success"/>](./README_en.md)
 [<img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-blue"/>](./LICENSE.md)
 
@@ -24,7 +24,7 @@ version: <span style="color: red">2.3.x</span>
 
 expected release time: <span style="color: red">250715</span>
 
-details： [click here to go](docs/Next.md)
+details: [click here to go](docs/Next.md)
 
 ## Discounted activities
 
