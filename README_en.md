@@ -1,12 +1,48 @@
 # MPVP(maven) - Maven Project Version Plugin
 
-[中文](README.md) / English
-
 [![jetbrains_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/24176-mpvp-maven?label=plugin%20downloads&color=green)](https://plugins.jetbrains.com/plugin/24176-mpvp-maven-)
+
+[![lang-中文](https://img.shields.io/badge/lang-中文-success)](./README.md)
+
+[![lang-English](https://img.shields.io/badge/lang-English-success)](./README_en.md)
+
+[![LICENSE](https://img.shields.io/badge/LICENSE-blue)](./LICENSE.md)
+
 
 Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索.
 <br/>
 Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version.
+
+## Preface
+
+工欲善其事必先利其器！想必大家在使用maven时会经常碰到项目版本升级和依赖版本升级的问题吧。针对占用大家大量时间以及大家经常使用遇到的痛点，这款插件诞生了！！！
+轻松帮您解决搜索依赖困扰和升级版本困扰！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！
+
+To do a good job, one must first sharpen their tools! I believe everyone often encounters issues with project version upgrades and dependency version upgrades when using Maven. This plugin has been born to address the pain points that consume a lot of everyone's time and are frequently encountered during use!!!
+Easily help you solve search dependency and upgrade version problems! Lightweight and fast is our original intention, and we will definitely move forward to save you a lot of time and effort! Let more time and value stay in more important places!!!
+
+## Update plan
+
+version: <span style="color: red">2.3.x</span>
+
+expected release time: <span style="color: red">250715</span>
+
+details： [click here to go](docs/Next.md)
+
+## Discounted activities
+
+[🔥 idea插件MPVP(Maven)限时618优惠活动来啦，最高可享5折！（最低可至每月不到￥4！买奶茶的钱就能换一整年高效开发
+！快来上车！！！）](https://mp.weixin.qq.com/s/Gemngf1FW9h2EKEcn702Pw)
+
+
+## How to activate it?
+
+Search WeChat official account <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> (<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">Click to view QR code</a>) Operate according to the menu link
+
+<span style="color: red">Note: </span>If there is any problem, you can send a message directly on the WeChat official account to leave a message
+
+In addition to testing the plugin directly after its release, you can also apply for a free trial! Just follow the instructions on the WeChat official account.
+
 
 ## How to find the operation menu?
 
@@ -157,12 +193,6 @@ sensitive-data.machine_serial_numbers=true
 
 You can use the default language of the system or specify the language to be used in conf. properties
 
-
-## How to activate it?
-
-Search WeChat official account <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> (<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">Click to view QR code</a>) Operate according to the menu link
-
-<span style="color: red">Note: </span>If there is any problem, you can send a message directly on the WeChat official account to leave a message
 
 ## Use video sharing
 

@@ -1,12 +1,44 @@
 # MPVP(maven) - Maven Project Version Plugin
 
-中文 / [English](README_en.md)
-
 [![jetbrains_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/24176-mpvp-maven?label=plugin%20downloads&color=green)](https://plugins.jetbrains.com/plugin/24176-mpvp-maven-)
+
+[![lang-中文](https://img.shields.io/badge/lang-中文-success)](README.md)
+
+[![lang-English](https://img.shields.io/badge/lang-English-success)](README_en.md)
+
+[![LICENSE](https://img.shields.io/badge/LICENSE-blue)](LICENSE.md)
+
 
 Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索.
 <br/>
 Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version.
+
+## 前言
+
+工欲善其事必先利其器！想必大家在使用maven时会经常碰到项目版本升级和依赖版本升级的问题吧。针对占用大家大量时间以及大家经常使用遇到的痛点，这款插件诞生了！！！
+轻松帮您解决搜索依赖困扰和升级版本困扰！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！
+
+## 更新计划
+
+版本号: <span style="color: red">2.3.x</span>
+
+预计发布时间: <span style="color: red">250715</span>
+
+详情： [戳这里直达](docs/Next.md)
+
+## 优惠活动
+
+[🔥 idea插件MPVP(Maven)限时618优惠活动来啦，最高可享5折！（最低可至每月不到￥4！买奶茶的钱就能换一整年高效开发
+！快来上车！！！）](https://mp.weixin.qq.com/s/Gemngf1FW9h2EKEcn702Pw)
+
+## 如何激活？
+
+搜索微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）根据菜单链接进行操作
+
+<span style="color: red">注：</span>如有问题，您可直接在公众号发送消息进行留言
+
+除插件发布后直接试用外，也可免费申请试用！按照公众号指引步骤即可。
+
 
 ## 如何找到操作菜单？
 
@@ -85,10 +117,10 @@ Tools > Maven Project Version
 
 ### Maven项目版本搜索
 
-支持查询中央仓库最新依赖版本，也可以快速查询Nexus仓库(远程/私服)依赖版本。 
+支持查询中央仓库最新依赖版本，也可以快速查询Nexus仓库(远程/私服)依赖版本。
 
 提供便捷式搜索能力(Maven pom配置或Gradle依赖配置粘贴后即可查询，也可通过关键字进行查询)，
-一键复制依赖坐标，快速查看版本详情页等，欢迎上手体验~ 
+一键复制依赖坐标，快速查看版本详情页等，欢迎上手体验~
 
 简化您的工作流程，为您节省大量宝贵时间！(持续更新优化！欢迎提供优化建议~)
 
@@ -110,7 +142,7 @@ Tools > Maven Project Version
 
 ## 其他
 
-### conf.properties配置文件 
+### conf.properties配置文件
 
 可用于进行个性化项的配置
 
@@ -153,12 +185,6 @@ sensitive-data.machine_serial_numbers=true
 
 可通过系统默认语言，也可在conf.properties中进行指定要使用的语言
 
-
-## 如何激活？
-
-搜索微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）根据菜单链接进行操作
-
-<span style="color: red">注：</span>如有问题，您可直接在公众号发送消息进行留言
 
 ## 使用视频分享
 
