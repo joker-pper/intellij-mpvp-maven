@@ -1,14 +1,22 @@
-# MPVP(maven) - Maven Project Version Plugin
+# Maven With Me(MPVP) - Maven Project Version Plugin
 
-[![jetbrains_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/24176-mpvp-maven?label=plugin%20downloads&color=green)](https://plugins.jetbrains.com/plugin/24176-mpvp-maven-)
+[![jetbrains_new_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27647-maven-with-me-mpvp-?label=new%20plugin%20downloads&color=green)](https://plugins.jetbrains.com/plugin/27647-maven-with-me-mpvp-)
+[![jetbrains_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/24176-mpvp-maven-?label=before%20plugin%20downloads&color=green)](https://plugins.jetbrains.com/plugin/24176-mpvp-maven-)
 [<img alt="lang-中文" src="https://img.shields.io/badge/lang-中文-success"/>](./README.md)
 [<img alt="lang-English" src="https://img.shields.io/badge/lang-English-success"/>](./README_en.md)
 [<img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-blue"/>](./LICENSE.md)
 
-
 Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索.
 <br/>
 Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version.
+
+
+> Subdivision plugin
+
+[![jetbrains_maven_update_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27628-maven-update-mpvp-?label=Maven%20Update%20plugin%20downloads&color=green)](https://plugins.jetbrains.com/plugin/27628-maven-update-mpvp-)
+[![jetbrains_maven_search_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27627-maven-search-mpvp-?label=Maven%20Search%20plugin%20downloads&color=green)](https://plugins.jetbrains.com/plugin/27627-maven-search-mpvp-)
+
+<hr/>
 
 ## Preface
 
@@ -34,7 +42,7 @@ details: [click here to go](docs/Next.md)
 
 ## How to activate it?
 
-Search WeChat official account <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> (<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">Click to view QR code</a>) Operate according to the menu link
+Search WeChat official account <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> (<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">Click to view QR code</a>) Operate according to the menu link(During normal activation, the remaining trial days of the plugin release can be stacked! No need to wait for the plugin trial to expire!)
 
 <span style="color: red">Note: </span>If there is any problem, you can send a message directly on the WeChat official account to leave a message
 
