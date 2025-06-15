@@ -1,20 +1,30 @@
 # Maven With Me(MPVP) - Maven Project Version Plugin
 
-[![jetbrains_new_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27647-maven-with-me-mpvp-?label=new%20plugin%20downloads&color=green)](https://plugins.jetbrains.com/plugin/27647-maven-with-me-mpvp-)
-[![jetbrains_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/24176-mpvp-maven-?label=before%20plugin%20downloads&color=green)](https://plugins.jetbrains.com/plugin/24176-mpvp-maven-)
+[![jetbrains_new_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27647-maven-with-me-mpvp-?label=%E2%AD%90%20Maven%20With%20Me%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/27647-maven-with-me-mpvp-)
+[![jetbrains_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/24176-mpvp-maven-?label=MPVP(Maven)%20downloads&labelColor=5d3623&color=green)](https://plugins.jetbrains.com/plugin/24176-mpvp-maven-)
 [<img alt="lang-中文" src="https://img.shields.io/badge/lang-中文-success"/>](./README.md)
 [<img alt="lang-English" src="https://img.shields.io/badge/lang-English-success"/>](./README_en.md)
-[<img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-blue"/>](./LICENSE.md)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?logo=github&logoColor=white)](https://joker-pper.github.io/intellij-mpvp-maven/)
+[<img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-blue"/>](docs/LICENSE_Page.md)
 
 Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索.
 <br/>
 Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version.
 
+<hr/>
+
+<p style="font-size: 15px; font-weight: bold;">
+The plugin "MPVP(Maven)" has been changed to <span  style="color: rgb(255, 76, 65);">"Maven With Me(MPVP)"</span> plugin, and "MPVP(Maven)" will no longer be maintained in the future.
+
+We suggest that you uninstall the currently installed "MPVP(Maven)" plugin (which may conflict with the "Maven With Me(MPVP)" plugin) and search for the keywords <span  style="color: rgb(255, 76, 65);">"MPVP"</span> in the plugin marketplace to switch to <span  style="color: rgb(255, 76, 65);">"Maven With Me(MPVP)"</span> plugin.
+</p>
+
+<hr/>
 
 > Subdivision plugin
 
-[![jetbrains_maven_update_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27628-maven-update-mpvp-?label=Maven%20Update%20plugin%20downloads&color=green)](https://plugins.jetbrains.com/plugin/27628-maven-update-mpvp-)
-[![jetbrains_maven_search_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27627-maven-search-mpvp-?label=Maven%20Search%20plugin%20downloads&color=green)](https://plugins.jetbrains.com/plugin/27627-maven-search-mpvp-)
+[![jetbrains_maven_update_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27628-maven-update-mpvp-?label=Maven%20Update%20downloads&color=green)](https://plugins.jetbrains.com/plugin/27628-maven-update-mpvp-)
+[![jetbrains_maven_search_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27627-maven-search-mpvp-?label=Maven%20Search%20downloads&color=green)](https://plugins.jetbrains.com/plugin/27627-maven-search-mpvp-)
 
 <hr/>
 
