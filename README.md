@@ -7,6 +7,10 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?logo=github&logoColor=white)](https://joker-pper.github.io/intellij-mpvp-maven/)
 [<img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-blue"/>](docs/LICENSE_Page.md)
 
+<div align="center" style="text-align: center;">
+    <img alt="visitors" src="https://count.getloli.com/get/@joker-pper.intellij-mpvp-maven?theme=original-new" />
+</div>
+
 Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索.
 <br/>
 Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version.
