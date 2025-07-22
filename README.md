@@ -54,11 +54,9 @@ Maven Project Version Plugin, Support Quick Update Version And Show Project Vers
 
 我们提供了以下激活授权规格，您有需要可在公众号菜单 <span textstyle="" style="color: rgb(255, 76, 0)">MPVP</span>&nbsp;&gt;&nbsp;<span textstyle="" style="color: rgb(255, 76, 0)">激活链接</span> 查看详情，也可随时进行留言咨询。
 <div align="left" style="text-align: left;">
-<br/>
+<br/>    
 ￥9.9 1个 / 3月（7.1-10.7）<br/><br/>
-
 ￥19.9 1个 / 6月（7.1-10.7）<br/><br/>
-
 ￥29.9 1个 / 一年（7.1-10.7）<br/><br/>
 </div>
 
