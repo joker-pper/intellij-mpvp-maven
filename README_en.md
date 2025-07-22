@@ -11,9 +11,10 @@
     <img alt="visitors" style="max-width: 100%;" src="https://count.getloli.com/get/@joker-pper.intellij-mpvp-maven?theme=original-new" />
 </div>
 
-Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索.
+Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章.
 <br/>
-Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version.
+<br/>
+Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version.
 
 <hr/>
 
@@ -42,17 +43,15 @@ Easily help you solve search dependency and upgrade version problems! Lightweigh
 
 ## Update plan
 
-version: <span style="color: red">2.3.x</span>
+version: <span style="color: red">2.4.x</span>
 
-expected release time: <span style="color: red">250715</span>
+expected release time: <span style="color: red">???</span>
 
 details: [click here to go](docs/Next.md)
 
 ## Discounted activities
 
-[🔥 idea插件MPVP(Maven)限时618优惠活动来啦，最高可享5折！（最低可至每月不到￥4！买奶茶的钱就能换一整年高效开发
-！快来上车！！！）](https://mp.weixin.qq.com/s/Gemngf1FW9h2EKEcn702Pw)
-
+If you need, you can view the details in the WeChat official account menu <span textstyle="" style="color: rgb(255, 76, 0)">MPVP</span>&nbsp;&gt;&nbsp;<span textstyle="" style="color: rgb(255, 76, 0)">激活链接</span> view details<br/><br/>
 
 ## How to activate it?
 
@@ -142,13 +141,23 @@ You can directly display version values in the project view, knowing the current
 
 ### Maven Project Version Search
 
-Support querying the latest dependency versions of the Central Repository, as well as quickly querying the dependency versions of the Nexus Repository (remote/private).
+Support querying the latest dependency versions of the Central Repository, as well as quickly querying the dependency versions of the Nexus Repository (remote/private). Simplify your workflow and save you a lot of valuable time! Welcome to experience it~
 
-Provide convenient search capabilities (Maven pom configuration or Gradle dependency configuration can be querying after pasting, or querying by keywords), 
+Provide convenient search capabilities (Maven pom configuration or Gradle dependency configuration can be querying after pasting, or querying by keywords)
 
-One click copying of dependency coordinates, quick viewing of version detail pages, etc. Welcome to experience it~
+One click copying of dependency coordinates
 
-Simplify your workflow and save you a lot of valuable time! (Continuously updated and optimized! Welcome to provide optimization suggestions~)
+<span style="color: rgb(255, 76, 65);">One click access to file directory</span>
+
+<span style="color: rgb(255, 76, 65);">One click loading update time (compatible with lower versions of Nexus)</span>
+
+Quickly viewing of version detail pages
+
+Nexus repository query increases cache (memory level) to reduce query detail requests within a certain period of time. The default user level Nexus repository cache time is 1 minute for snapshot and 30 minutes for release, and configurable parameter adjustments are provided (minimum value is 1 minute, maximum value is 360 minutes)
+
+...
+
+(Continuously updated and optimized! Welcome to provide optimization suggestions~)
 
 #### Central Repository
 
@@ -161,6 +170,26 @@ Simplify your workflow and save you a lot of valuable time! (Continuously update
 ![search-version-nexus_en](picture/search-version-nexus_en.png)
 
 ![search-version-nexus-result_en](picture/search-version-nexus-result_en.png)
+
+
+### Maven Project Version Badge
+
+Supports the quick generate badges for common Maven project versions (relying on the capabilities of shields.io).
+
+Provides common parameter usage, allowing quick customization of text and color
+
+Add an internal @alt parameter to define the text for the alt attribute in HTML, Markdown, and Markdown (With URL)
+
+Provide URL, Markdown, Markdown (With URL), HTML build types
+
+Provide the ability to quickly enter groupId and artifactId (e.g: by pasting Maven pom configuration or Gradle dependency configuration)
+
+Markdown (with URL) provides built-in Redirect links by default, and you can also customize and enter Redirect links
+
+![build-version-badge_en](picture/build-version-badge_en.png)
+
+![build-version-badge-result_en](picture/build-version-badge-result_en.png)
+
 
 ### Internationalization Support
 
@@ -182,6 +211,8 @@ The supported configurations are as follows:
 ```
 # customize language usage
 #my.language=zh_CN
+#my.language=zh_TW
+#my.language=en
 
 # pom-path format to prettify?
 format.pom-path.prettify=true
@@ -196,8 +227,15 @@ sensitive-data.machine_serial_numbers=true
 #search.nx3.repository-version-use-new-url=http://localhost:8081/
 #search.nx3.repository-version-use-new-url=http://localhost:8081/,http://localhost:8083/
 
-# search nexus cache save period（Unit: minutes, value should be > 0, use default value 360 when not configured or illegal）-- 2.1.x added
+# search nexus cache save period (Unit: minutes, value should be > 0, use default value 360 when not configured or illegal)-- 2.1.x added
 #search.nx.cache-save-period=360
+
+# user's private nexus server release query result cache period, and 30 minutes by default when not configured (Unit: minutes, value should be > 0 and <= 360. When not configured or < 1, use default value; when value > maximum value, use default maximum value)
+search.user-repository-search-result.release-cache-period=30
+
+# user's private nexus server snapshots query result cache period, and 1 minutes by default when not configured（Unit: minutes, value should be > 0 and <= 360. When not configured or < 1, use default value; when value > maximum value, use default maximum value)
+search.user-repository-search-result.snapshots-cache-period=1
+
 
 ```
 
