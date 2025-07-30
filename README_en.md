@@ -55,7 +55,7 @@ If you need, you can view the details in the WeChat official account menu <span 
 
 ## How to activate it?
 
-Search WeChat official account <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> (<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">Click to view QR code</a>) Operate according to the menu link(During normal activation, the remaining trial days of the plugin release can be stacked! No need to wait for the plugin trial to expire!)
+Search WeChat official account <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> (<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">Click to view QR code</a>) Operate according to the menu link(<span style="color: rgb(255, 76, 65);">During normal activation, the remaining trial days of the plugin release can be stacked! No need to wait for the plugin trial to expire!</span>)
 
 <span style="color: red">Note: </span>If there is any problem, you can send a message directly on the WeChat official account to leave a message
 
