@@ -152,7 +152,7 @@ Tools > Maven Project Version
 
 一键复制依赖坐标
 
-<span style="color: rgb(255, 76, 65);">一键访问文件目录</span>
+<span style="color: rgb(255, 76, 65);">一键访问文件目录（兼容Nexus低版本）</span>
 
 <span style="color: rgb(255, 76, 65);">一键加载更新时间（兼容Nexus低版本）</span>
 

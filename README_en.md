@@ -147,7 +147,7 @@ Provide convenient search capabilities (Maven pom configuration or Gradle depend
 
 One click copying of dependency coordinates
 
-<span style="color: rgb(255, 76, 65);">One click access to file directory</span>
+<span style="color: rgb(255, 76, 65);">One click access to file directory (compatible with lower versions of Nexus)</span>
 
 <span style="color: rgb(255, 76, 65);">One click loading update time (compatible with lower versions of Nexus)</span>
 
