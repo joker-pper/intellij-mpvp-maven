@@ -18,6 +18,14 @@ Maven Project Version Plugin, Support Quick Update Version And Show Project Vers
 
 <hr/>
 
+<p style="font-size: 16px; font-weight: 425; color:#f96a6a;">
+Welcome everyone to join the QQ communication group, not only can you get the latest plugin resources in the first time, but you can also communicate and learn together!
+</p>
+
+QQ communication group: [550996296 (Click to add to group)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=50F30oecs4iVEfMBlRK4fhfLIzLlV6-t&authKey=i%2BrfuFb1IrbqEmE3QT5GCOF75A0LXsoriZN9951IbY7eezZpoQgvskOkK513z2Bf&noverify=0&group_code=550996296)
+
+<hr/>
+
 <p style="font-size: 15px; font-weight: bold;">
 The plugin "MPVP(Maven)" has been changed to <span  style="color: rgb(255, 76, 65);">"Maven With Me(MPVP)"</span> plugin, and "MPVP(Maven)" will no longer be maintained in the future.
 
@@ -36,14 +44,16 @@ We suggest that you uninstall the currently installed "MPVP(Maven)" plugin (whic
 ## Preface
 
 工欲善其事必先利其器！想必大家在使用maven时会经常碰到项目版本升级和依赖版本升级的问题吧。针对占用大家大量时间以及大家经常使用遇到的痛点，这款插件诞生了！！！
-轻松帮您解决搜索依赖困扰和升级版本困扰！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！
+轻松帮您解决搜索依赖困扰和升级版本困扰！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！<br/>
+<b>希望它能成为一款真正有价值的插件，避免大家花费更多的精力和心力在这些繁琐的流程中。当然这也需要您的支持，以便我们提供更好的服务和迭代，利他和利己不是可以共存的嘛~ 让我们一起走得更远！</b><br/>
 
 To do a good job, one must first sharpen their tools! I believe everyone often encounters issues with project version upgrades and dependency version upgrades when using Maven. This plugin has been born to address the pain points that consume a lot of everyone's time and are frequently encountered during use!!!
-Easily help you solve search dependency and upgrade version problems! Lightweight and fast is our original intention, and we will definitely move forward to save you a lot of time and effort! Let more time and value stay in more important places!!!
+Easily help you solve search dependency and upgrade version problems! Lightweight and fast is our original intention, and we will definitely move forward to save you a lot of time and effort! Let more time and value stay in more important places!!!<br/>
+<b>I hope it can become a truly valuable plugin, avoiding everyone from spending more energy and effort on these tedious processes. Of course, this also requires your support so that we can provide better services and iterations. Altruism and self-interest can coexist. Let's go further together!</b><br/>
 
 ## Update plan
 
-version: <span style="color: red">2.4.x</span>
+version: <span style="color: red">2.5.x</span>
 
 expected release time: <span style="color: red">???</span>
 
@@ -260,9 +270,16 @@ You can use the default language of the system or specify the language to be use
 
 If you have any questions or suggestions, you can do so through the following methods:
 
-+ Submit [Github Issues](https://github.com/joker-pper/intellij-mpvp-maven/issues)
-
-+ QQ communication group: [550996296](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=50F30oecs4iVEfMBlRK4fhfLIzLlV6-t&authKey=i%2BrfuFb1IrbqEmE3QT5GCOF75A0LXsoriZN9951IbY7eezZpoQgvskOkK513z2Bf&noverify=0&group_code=550996296)
-
-+ Email: [yyc_xincheng@163.com](mailto:yyc_xincheng@163.com)
+Submit [Github Issues](https://github.com/joker-pper/intellij-mpvp-maven/issues)
+<br/>
+<br/>
+QQ communication group: [550996296 (Click to add to group)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=50F30oecs4iVEfMBlRK4fhfLIzLlV6-t&authKey=i%2BrfuFb1IrbqEmE3QT5GCOF75A0LXsoriZN9951IbY7eezZpoQgvskOkK513z2Bf&noverify=0&group_code=550996296)
+<br/>
+<br/>
+WeChat official account: <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> (<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">Click to view QR code</a>)
+<br/>
+<br/>
+Email: [yyc_xincheng@163.com](mailto:yyc_xincheng@163.com)
+<br/>
+<br/>
 

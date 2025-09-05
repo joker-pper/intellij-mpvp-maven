@@ -18,6 +18,14 @@ Maven Project Version Plugin, Support Quick Update Version And Show Project Vers
 
 <hr/>
 
+<p style="font-size: 16px; font-weight: 425; color:#f96a6a;">
+欢迎大家加入QQ群，不仅能在第一时间获取最新插件资源，还能一起交流学习！
+</p>
+
+QQ交流群: [550996296（点击加群）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=50F30oecs4iVEfMBlRK4fhfLIzLlV6-t&authKey=i%2BrfuFb1IrbqEmE3QT5GCOF75A0LXsoriZN9951IbY7eezZpoQgvskOkK513z2Bf&noverify=0&group_code=550996296)
+
+<hr/>
+
 <p style="font-size: 15px; font-weight: bold;">
 插件“MPVP(Maven)”已变更为<span style="color: rgb(255, 76, 65);">“Maven With Me(MPVP)”</span>插件，后续“MPVP(Maven)”将不再维护。
 
@@ -36,12 +44,13 @@ Maven Project Version Plugin, Support Quick Update Version And Show Project Vers
 ## 前言
 
 工欲善其事必先利其器！想必大家在使用maven时会经常碰到项目版本升级和依赖版本升级的问题吧。针对占用大家大量时间以及大家经常使用遇到的痛点，这款插件诞生了！！！
-轻松帮您解决搜索依赖困扰和升级版本困扰！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！
+轻松帮您解决搜索依赖困扰和升级版本困扰！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！<br/>
+<b>希望它能成为一款真正有价值的插件，避免大家花费更多的精力和心力在这些繁琐的流程中。当然这也需要您的支持，以便我们提供更好的服务和迭代，利他和利己不是可以共存的嘛~ 让我们一起走得更远！</b><br/>
 
 
 ## 更新计划
 
-版本号: <span style="color: red">2.4.x</span>
+版本号: <span style="color: red">2.5.x</span>
 
 预计发布时间: <span style="color: red">???</span>
 
@@ -262,9 +271,15 @@ search.user-repository-search-result.snapshots-cache-period=1
 
 如果您有任何问题或建议，可以通过以下方式：
 
-+ 提交 [Github Issues](https://github.com/joker-pper/intellij-mpvp-maven/issues)
-
-+ QQ交流群: [550996296](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=50F30oecs4iVEfMBlRK4fhfLIzLlV6-t&authKey=i%2BrfuFb1IrbqEmE3QT5GCOF75A0LXsoriZN9951IbY7eezZpoQgvskOkK513z2Bf&noverify=0&group_code=550996296)
-
-+ Email: [yyc_xincheng@163.com](mailto:yyc_xincheng@163.com)
-
+提交 [Github Issues](https://github.com/joker-pper/intellij-mpvp-maven/issues)
+<br/>
+<br/>
+QQ交流群: [550996296（点击加群）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=50F30oecs4iVEfMBlRK4fhfLIzLlV6-t&authKey=i%2BrfuFb1IrbqEmE3QT5GCOF75A0LXsoriZN9951IbY7eezZpoQgvskOkK513z2Bf&noverify=0&group_code=550996296)
+<br/>
+<br/>
+公众号: <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）
+<br/>
+<br/>
+Email: [yyc_xincheng@163.com](mailto:yyc_xincheng@163.com)
+<br/>
+<br/>
