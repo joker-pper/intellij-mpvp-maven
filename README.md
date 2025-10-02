@@ -11,9 +11,18 @@
     <img alt="visitors" style="max-width: 100%;" src="https://count.getloli.com/get/@joker-pper.intellij-mpvp-maven?theme=original-new" />
 </div>
 
-Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索.
+Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章.
 <br/>
-Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version.
+<br/>
+Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version.
+
+<hr/>
+
+<p style="font-size: 16px; font-weight: 425; color:#f96a6a;">
+欢迎大家加入QQ群，不仅能在第一时间获取最新插件资源，还能一起交流学习！
+</p>
+
+QQ交流群: [550996296（点击加群）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=50F30oecs4iVEfMBlRK4fhfLIzLlV6-t&authKey=i%2BrfuFb1IrbqEmE3QT5GCOF75A0LXsoriZN9951IbY7eezZpoQgvskOkK513z2Bf&noverify=0&group_code=550996296)
 
 <hr/>
 
@@ -35,25 +44,34 @@ Maven Project Version Plugin, Support Quick Update Version And Show Project Vers
 ## 前言
 
 工欲善其事必先利其器！想必大家在使用maven时会经常碰到项目版本升级和依赖版本升级的问题吧。针对占用大家大量时间以及大家经常使用遇到的痛点，这款插件诞生了！！！
-轻松帮您解决搜索依赖困扰和升级版本困扰！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！
+轻松帮您解决搜索依赖困扰和升级版本困扰！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！<br/>
+<b>希望它能成为一款真正有价值的插件，避免大家花费更多的精力和心力在这些繁琐的流程中。当然这也需要您的支持，以便我们提供更好的服务和迭代，利他和利己不是可以共存的嘛~ 让我们一起走得更远！</b><br/>
 
 
 ## 更新计划
 
-版本号: <span style="color: red">2.3.x</span>
+版本号: <span style="color: red">2.6.x</span>
 
-预计发布时间: <span style="color: red">250715</span>
+预计发布时间: <span style="color: red">???</span>
 
 详情: [戳这里直达](docs/Next.md)
 
 ## 优惠活动
+<p style="font-size: 18px; font-weight: bold;color: red;">
+ 🔥限时激活优惠（最低可至每月不到¥3）
+</p>
 
-[🔥 idea插件MPVP(Maven)限时618优惠活动来啦，最高可享5折！（最低可至每月不到￥4！买奶茶的钱就能换一整年高效开发
-！快来上车！！！）](https://mp.weixin.qq.com/s/Gemngf1FW9h2EKEcn702Pw)
+我们提供了以下激活授权规格，您有需要可在公众号菜单 <span textstyle="" style="color: rgb(255, 76, 0)">MPVP</span>&nbsp;&gt;&nbsp;<span textstyle="" style="color: rgb(255, 76, 0)">激活链接</span> 查看详情，也可随时进行留言咨询。
+<div align="left" style="text-align: left;">
+<br/>    
+￥9.9 1个 / 3月（7.1-10.7）<br/><br/>
+￥19.9 1个 / 6月（7.1-10.7）<br/><br/>
+￥29.9 1个 / 一年（7.1-10.7）<br/><br/>
+</div>
 
 ## 如何激活？
 
-搜索微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）根据菜单链接进行操作（在进行正常激活时可叠加插件发布的剩余试用天数！无需额外等待插件试用到期！）
+搜索微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）根据菜单链接进行操作（<span style="color: rgb(255, 76, 65);">在进行正常激活时可叠加插件发布的剩余试用天数！无需额外等待插件试用到期！</span>）
 
 <span style="color: red">注：</span>如有问题，您可直接在公众号发送消息进行留言
 
@@ -137,12 +155,23 @@ Tools > Maven Project Version
 
 ### Maven项目版本搜索
 
-支持查询中央仓库最新依赖版本，也可以快速查询Nexus仓库(远程/私服)依赖版本。
+支持查询中央仓库最新依赖版本，也可以快速查询Nexus仓库(远程/私服)依赖版本。 简化您的工作流程，为您节省大量宝贵时间！欢迎上手体验~
 
-提供便捷式搜索能力(Maven pom配置或Gradle依赖配置粘贴后即可查询，也可通过关键字进行查询)，
-一键复制依赖坐标，快速查看版本详情页等，欢迎上手体验~
+提供便捷式搜索能力(Maven pom配置或Gradle依赖配置粘贴后即可查询，也可通过关键字进行查询)
 
-简化您的工作流程，为您节省大量宝贵时间！(持续更新优化！欢迎提供优化建议~)
+一键复制依赖坐标
+
+<span style="color: rgb(255, 76, 65);">一键访问文件目录（兼容Nexus低版本）</span>
+
+<span style="color: rgb(255, 76, 65);">一键加载更新时间（兼容Nexus低版本）</span>
+
+快速查看版本详情页
+
+Nexus仓库查询增加缓存（内存级）减少一定时间内的查询详细请求，默认用户级Nexus仓库缓存时效（snapshot为1分钟，release为30分钟），并提供可配置参数项调整（最小值为1分钟，最大值为360分钟）
+
+...
+
+(持续更新优化！欢迎提供优化建议~)
 
 #### 中央仓库
 
@@ -155,6 +184,25 @@ Tools > Maven Project Version
 ![search-version-nexus_zh](picture/search-version-nexus_zh.png)
 
 ![search-version-nexus-result_zh](picture/search-version-nexus-result_zh.png)
+
+### Maven项目版本徽章
+
+支持快速生成常见Maven项目版本的徽章 (依赖shields.io能力)。
+
+提供常见参数使用，可快速自定义文本及颜色
+
+增加内部@alt参数用于定义HTML、Markdown、Markdown(With URL)中alt属性的文本
+
+提供URL、Markdown、Markdown(With URL)、HTML生成类型
+
+提供支持groupId+artifactId快速输入能力(如Maven pom配置或Gradle依赖配置粘贴即可)
+
+Markdown(With URL)默认提供内置跳转链接，也可自定义输入跳转链接
+
+![build-version-badge_zh](picture/build-version-badge_zh.png)
+
+![build-version-badge-result_zh](picture/build-version-badge-result_zh.png)
+
 
 ### 国际化支持
 
@@ -175,6 +223,8 @@ Tools > Maven Project Version
 ```
 # 自定义使用语言
 #my.language=zh_CN
+#my.language=zh_TW
+#my.language=en
 
 # pom-path是否进行转换
 format.pom-path.prettify=true
@@ -191,6 +241,12 @@ sensitive-data.machine_serial_numbers=true
 
 # 搜索nexus缓存保存周期（单位：分钟，配置值应 > 0，未配置或不合法时使用默认值 360）-- 2.1.x新增
 #search.nx.cache-save-period=360
+
+# 用户私服release版查询结果缓存有效期，未配置时默认30分钟 （单位：分钟，配置值应 > 0 且 <= 360。当未配置或 < 1 时使用默认值，当值 > 最大值时则使用默认最大值）
+search.user-repository-search-result.release-cache-period=30
+
+# 用户私服快照版查询结果缓存有效期，未配置时默认1分钟 （单位：分钟，配置值应 > 0 且 <= 360。当未配置或 < 1 时使用默认值，当值 > 最大值时则使用默认最大值）
+search.user-repository-search-result.snapshots-cache-period=1
 
 ```
 
@@ -215,9 +271,15 @@ sensitive-data.machine_serial_numbers=true
 
 如果您有任何问题或建议，可以通过以下方式：
 
-+ 提交 [Github Issues](https://github.com/joker-pper/intellij-mpvp-maven/issues)
-
-+ QQ交流群: [550996296](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=50F30oecs4iVEfMBlRK4fhfLIzLlV6-t&authKey=i%2BrfuFb1IrbqEmE3QT5GCOF75A0LXsoriZN9951IbY7eezZpoQgvskOkK513z2Bf&noverify=0&group_code=550996296)
-
-+ Email: [yyc_xincheng@163.com](mailto:yyc_xincheng@163.com)
-
+提交 [Github Issues](https://github.com/joker-pper/intellij-mpvp-maven/issues)
+<br/>
+<br/>
+QQ交流群: [550996296（点击加群）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=50F30oecs4iVEfMBlRK4fhfLIzLlV6-t&authKey=i%2BrfuFb1IrbqEmE3QT5GCOF75A0LXsoriZN9951IbY7eezZpoQgvskOkK513z2Bf&noverify=0&group_code=550996296)
+<br/>
+<br/>
+公众号: <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）
+<br/>
+<br/>
+Email: [yyc_xincheng@163.com](mailto:yyc_xincheng@163.com)
+<br/>
+<br/>

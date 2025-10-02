@@ -11,9 +11,18 @@
     <img alt="visitors" style="max-width: 100%;" src="https://count.getloli.com/get/@joker-pper.intellij-mpvp-maven?theme=original-new" />
 </div>
 
-Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索.
+Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章.
 <br/>
-Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version.
+<br/>
+Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version.
+
+<hr/>
+
+<p style="font-size: 16px; font-weight: 425; color:#f96a6a;">
+Welcome everyone to join the QQ communication group, not only can you get the latest plugin resources in the first time, but you can also communicate and learn together!
+</p>
+
+QQ communication group: [550996296 (Click to add to group)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=50F30oecs4iVEfMBlRK4fhfLIzLlV6-t&authKey=i%2BrfuFb1IrbqEmE3QT5GCOF75A0LXsoriZN9951IbY7eezZpoQgvskOkK513z2Bf&noverify=0&group_code=550996296)
 
 <hr/>
 
@@ -35,28 +44,28 @@ We suggest that you uninstall the currently installed "MPVP(Maven)" plugin (whic
 ## Preface
 
 工欲善其事必先利其器！想必大家在使用maven时会经常碰到项目版本升级和依赖版本升级的问题吧。针对占用大家大量时间以及大家经常使用遇到的痛点，这款插件诞生了！！！
-轻松帮您解决搜索依赖困扰和升级版本困扰！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！
+轻松帮您解决搜索依赖困扰和升级版本困扰！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！<br/>
+<b>希望它能成为一款真正有价值的插件，避免大家花费更多的精力和心力在这些繁琐的流程中。当然这也需要您的支持，以便我们提供更好的服务和迭代，利他和利己不是可以共存的嘛~ 让我们一起走得更远！</b><br/>
 
 To do a good job, one must first sharpen their tools! I believe everyone often encounters issues with project version upgrades and dependency version upgrades when using Maven. This plugin has been born to address the pain points that consume a lot of everyone's time and are frequently encountered during use!!!
-Easily help you solve search dependency and upgrade version problems! Lightweight and fast is our original intention, and we will definitely move forward to save you a lot of time and effort! Let more time and value stay in more important places!!!
+Easily help you solve search dependency and upgrade version problems! Lightweight and fast is our original intention, and we will definitely move forward to save you a lot of time and effort! Let more time and value stay in more important places!!!<br/>
+<b>I hope it can become a truly valuable plugin, avoiding everyone from spending more energy and effort on these tedious processes. Of course, this also requires your support so that we can provide better services and iterations. Altruism and self-interest can coexist. Let's go further together!</b><br/>
 
 ## Update plan
 
-version: <span style="color: red">2.3.x</span>
+version: <span style="color: red">2.6.x</span>
 
-expected release time: <span style="color: red">250715</span>
+expected release time: <span style="color: red">???</span>
 
 details: [click here to go](docs/Next.md)
 
 ## Discounted activities
 
-[🔥 idea插件MPVP(Maven)限时618优惠活动来啦，最高可享5折！（最低可至每月不到￥4！买奶茶的钱就能换一整年高效开发
-！快来上车！！！）](https://mp.weixin.qq.com/s/Gemngf1FW9h2EKEcn702Pw)
-
+If you need, you can view the details in the WeChat official account menu <span textstyle="" style="color: rgb(255, 76, 0)">MPVP</span>&nbsp;&gt;&nbsp;<span textstyle="" style="color: rgb(255, 76, 0)">激活链接</span> view details<br/><br/>
 
 ## How to activate it?
 
-Search WeChat official account <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> (<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">Click to view QR code</a>) Operate according to the menu link(During normal activation, the remaining trial days of the plugin release can be stacked! No need to wait for the plugin trial to expire!)
+Search WeChat official account <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> (<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">Click to view QR code</a>) Operate according to the menu link(<span style="color: rgb(255, 76, 65);">During normal activation, the remaining trial days of the plugin release can be stacked! No need to wait for the plugin trial to expire!</span>)
 
 <span style="color: red">Note: </span>If there is any problem, you can send a message directly on the WeChat official account to leave a message
 
@@ -142,13 +151,23 @@ You can directly display version values in the project view, knowing the current
 
 ### Maven Project Version Search
 
-Support querying the latest dependency versions of the Central Repository, as well as quickly querying the dependency versions of the Nexus Repository (remote/private).
+Support querying the latest dependency versions of the Central Repository, as well as quickly querying the dependency versions of the Nexus Repository (remote/private). Simplify your workflow and save you a lot of valuable time! Welcome to experience it~
 
-Provide convenient search capabilities (Maven pom configuration or Gradle dependency configuration can be querying after pasting, or querying by keywords), 
+Provide convenient search capabilities (Maven pom configuration or Gradle dependency configuration can be querying after pasting, or querying by keywords)
 
-One click copying of dependency coordinates, quick viewing of version detail pages, etc. Welcome to experience it~
+One click copying of dependency coordinates
 
-Simplify your workflow and save you a lot of valuable time! (Continuously updated and optimized! Welcome to provide optimization suggestions~)
+<span style="color: rgb(255, 76, 65);">One click access to file directory (compatible with lower versions of Nexus)</span>
+
+<span style="color: rgb(255, 76, 65);">One click loading update time (compatible with lower versions of Nexus)</span>
+
+Quickly viewing of version detail pages
+
+Nexus repository query increases cache (memory level) to reduce query detail requests within a certain period of time. The default user level Nexus repository cache time is 1 minute for snapshot and 30 minutes for release, and configurable parameter adjustments are provided (minimum value is 1 minute, maximum value is 360 minutes)
+
+...
+
+(Continuously updated and optimized! Welcome to provide optimization suggestions~)
 
 #### Central Repository
 
@@ -161,6 +180,26 @@ Simplify your workflow and save you a lot of valuable time! (Continuously update
 ![search-version-nexus_en](picture/search-version-nexus_en.png)
 
 ![search-version-nexus-result_en](picture/search-version-nexus-result_en.png)
+
+
+### Maven Project Version Badge
+
+Supports the quick generate badges for common Maven project versions (relying on the capabilities of shields.io).
+
+Provides common parameter usage, allowing quick customization of text and color
+
+Add an internal @alt parameter to define the text for the alt attribute in HTML, Markdown, and Markdown (With URL)
+
+Provide URL, Markdown, Markdown (With URL), HTML build types
+
+Provide the ability to quickly enter groupId and artifactId (e.g: by pasting Maven pom configuration or Gradle dependency configuration)
+
+Markdown (with URL) provides built-in Redirect links by default, and you can also customize and enter Redirect links
+
+![build-version-badge_en](picture/build-version-badge_en.png)
+
+![build-version-badge-result_en](picture/build-version-badge-result_en.png)
+
 
 ### Internationalization Support
 
@@ -182,6 +221,8 @@ The supported configurations are as follows:
 ```
 # customize language usage
 #my.language=zh_CN
+#my.language=zh_TW
+#my.language=en
 
 # pom-path format to prettify?
 format.pom-path.prettify=true
@@ -196,8 +237,15 @@ sensitive-data.machine_serial_numbers=true
 #search.nx3.repository-version-use-new-url=http://localhost:8081/
 #search.nx3.repository-version-use-new-url=http://localhost:8081/,http://localhost:8083/
 
-# search nexus cache save period（Unit: minutes, value should be > 0, use default value 360 when not configured or illegal）-- 2.1.x added
+# search nexus cache save period (Unit: minutes, value should be > 0, use default value 360 when not configured or illegal)-- 2.1.x added
 #search.nx.cache-save-period=360
+
+# user's private nexus server release query result cache period, and 30 minutes by default when not configured (Unit: minutes, value should be > 0 and <= 360. When not configured or < 1, use default value; when value > maximum value, use default maximum value)
+search.user-repository-search-result.release-cache-period=30
+
+# user's private nexus server snapshots query result cache period, and 1 minutes by default when not configured（Unit: minutes, value should be > 0 and <= 360. When not configured or < 1, use default value; when value > maximum value, use default maximum value)
+search.user-repository-search-result.snapshots-cache-period=1
+
 
 ```
 
@@ -222,9 +270,16 @@ You can use the default language of the system or specify the language to be use
 
 If you have any questions or suggestions, you can do so through the following methods:
 
-+ Submit [Github Issues](https://github.com/joker-pper/intellij-mpvp-maven/issues)
-
-+ QQ communication group: [550996296](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=50F30oecs4iVEfMBlRK4fhfLIzLlV6-t&authKey=i%2BrfuFb1IrbqEmE3QT5GCOF75A0LXsoriZN9951IbY7eezZpoQgvskOkK513z2Bf&noverify=0&group_code=550996296)
-
-+ Email: [yyc_xincheng@163.com](mailto:yyc_xincheng@163.com)
+Submit [Github Issues](https://github.com/joker-pper/intellij-mpvp-maven/issues)
+<br/>
+<br/>
+QQ communication group: [550996296 (Click to add to group)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=50F30oecs4iVEfMBlRK4fhfLIzLlV6-t&authKey=i%2BrfuFb1IrbqEmE3QT5GCOF75A0LXsoriZN9951IbY7eezZpoQgvskOkK513z2Bf&noverify=0&group_code=550996296)
+<br/>
+<br/>
+WeChat official account: <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> (<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">Click to view QR code</a>)
+<br/>
+<br/>
+Email: [yyc_xincheng@163.com](mailto:yyc_xincheng@163.com)
+<br/>
+<br/>
 
