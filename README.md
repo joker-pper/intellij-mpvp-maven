@@ -248,6 +248,9 @@ search.user-repository-search-result.release-cache-period=30
 # 用户私服快照版查询结果缓存有效期，未配置时默认1分钟 （单位：分钟，配置值应 > 0 且 <= 360。当未配置或 < 1 时使用默认值，当值 > 最大值时则使用默认最大值）
 search.user-repository-search-result.snapshots-cache-period=1
 
+# 复制gradle坐标是否使用Kotlin格式，未配置时默认false
+#gradle-coordinate-copy-with-kotlin=false
+
 ```
 
 ### 系统内置语言
