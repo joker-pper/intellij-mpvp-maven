@@ -53,7 +53,7 @@ Easily help you solve search dependency and upgrade version problems! Lightweigh
 
 ## Update plan
 
-version: <span style="color: red">2.5.x</span>
+version: <span style="color: red">2.6.x</span>
 
 expected release time: <span style="color: red">???</span>
 

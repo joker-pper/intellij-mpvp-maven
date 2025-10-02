@@ -50,7 +50,7 @@ QQ交流群: [550996296（点击加群）](http://qm.qq.com/cgi-bin/qm/qr?_wv=10
 
 ## 更新计划
 
-版本号: <span style="color: red">2.5.x</span>
+版本号: <span style="color: red">2.6.x</span>
 
 预计发布时间: <span style="color: red">???</span>
 
