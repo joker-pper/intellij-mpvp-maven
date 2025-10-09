@@ -263,6 +263,11 @@ search.user-repository-search-result.snapshots-cache-period=1
 You can use the default language of the system or specify the language to be used in conf. properties
 
 
+## How to configure Nexus access permissions?
+
+[How to configure Nexus access permissions for IDEA plugin Maven With Me / Maven Search?](docs/how-to-configure-nexus-access-permissions_en.md)
+
+
 ## Use video sharing
 
 [Using IDEA plugin MPVP(Maven) for multi module updates and version show](https://www.bilibili.com/video/BV18QoLYkEjD?vd_source=05374f268767300c92677818cbbdf95d)

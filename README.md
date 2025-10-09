@@ -265,6 +265,10 @@ search.user-repository-search-result.snapshots-cache-period=1
 可通过系统默认语言，也可在conf.properties中进行指定要使用的语言
 
 
+## 如何配置Nexus访问权限？
+
+[IDEA插件Maven With Me / Maven Search如何配置Nexus访问权限？](docs/how-to-configure-nexus-access-permissions_zh.md)
+
 ## 使用视频分享
 
 [【使用IDEA插件MPVP(Maven)进行多模块的更新及显示版本】](https://www.bilibili.com/video/BV18QoLYkEjD?vd_source=05374f268767300c92677818cbbdf95d)
