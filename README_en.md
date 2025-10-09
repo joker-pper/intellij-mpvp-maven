@@ -18,6 +18,16 @@ Maven Project Version Plugin, Support Quick Update Version And Show Project Vers
 
 <hr/>
 
+<p style="font-size: 20px; font-weight: bold; color:red;">
+Welcome everyone to join the communication group, not only can you get the latest plugin resources in the first time, but you can also communicate and learn together!
+</p>
+
+WeChat communication group: On the WeChat official account <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> (<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">Click to view QR code</a>) Leave a message <span style="color: rgb(255, 76, 65);">"WeChat group"</span> to get it
+
+QQ communication group: [550996296 (Click to add to group)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=50F30oecs4iVEfMBlRK4fhfLIzLlV6-t&authKey=i%2BrfuFb1IrbqEmE3QT5GCOF75A0LXsoriZN9951IbY7eezZpoQgvskOkK513z2Bf&noverify=0&group_code=550996296)
+
+<hr/>
+
 
 <p style="font-size: 15px; font-weight: bold;">
 The plugin "MPVP(Maven)" has been changed to <span  style="color: rgb(255, 76, 65);">"Maven With Me(MPVP)"</span> plugin, and "MPVP(Maven)" will no longer be maintained in the future.
@@ -45,14 +55,6 @@ Easily help you solve search dependency and upgrade version problems! Lightweigh
 <b>I hope it can become a truly valuable plugin, avoiding everyone from spending more energy and effort on these tedious processes. Of course, this also requires your support so that we can provide better services and iterations. Altruism and self-interest can coexist. Let's go further together!</b><br/>
 
 
-<p style="font-size: 16px; font-weight: 425; color:#f96a6a;">
-Welcome everyone to join the communication group, not only can you get the latest plugin resources in the first time, but you can also communicate and learn together!
-</p>
-
-WeChat communication group: On the WeChat official account <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a> (<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">Click to view QR code</a>) Leave a message <span style="color: rgb(255, 76, 65);">"WeChat group"</span> to get it
-
-QQ communication group: [550996296 (Click to add to group)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=50F30oecs4iVEfMBlRK4fhfLIzLlV6-t&authKey=i%2BrfuFb1IrbqEmE3QT5GCOF75A0LXsoriZN9951IbY7eezZpoQgvskOkK513z2Bf&noverify=0&group_code=550996296)
-
 <hr/>
 
 ## Update plan
@@ -77,7 +79,7 @@ If you need, you can view the details in the WeChat official account menu <span 
 | Show Version             | Unlimited Number of Validity Times (Currently) | Unlimited Number of Validity Times (Currently) | Unlimited Number of Times|
 | Search Version           | Limited Number of Validity Times (Daily) | Limited Number of Validity Times, Exceeding Unauthorized KEY Times (Daily) | Unlimited Times|
 | Badge Generation         | Unlimited Times (Currently) | Unlimited Times (Currently) | Unlimited Times|
-| Restricted trial period  | Yes (9.00-17.00/9.00-18.00 and others) | None | None|
+| Restricted usage time period  | Yes (9.00-17.00/9.00-18.00 and others) | None | None|
 | Activation validity time | Default setting when plugin is released | Number of days corresponding to applying for trial | Number of days corresponding to applying for activation (currently available as an additional gift, up to 30 days)|
 
 
