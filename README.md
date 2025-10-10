@@ -71,6 +71,7 @@ QQ交流群: [550996296（点击加群）](http://qm.qq.com/cgi-bin/qm/qr?_wv=10
 我们提供了以下激活授权规格，您有需要可在微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）菜单 <span textstyle="" style="color: rgb(255, 76, 0)">MPVP</span>&nbsp;&gt;&nbsp;<span textstyle="" style="color: rgb(255, 76, 0)">激活链接</span> 查看详情，也可随时进行留言咨询。
 <div align="left" style="text-align: left;">
 <br/>  
+￥9.9 1个 / 1月（尝鲜版）<br/><br/>
 ￥29.9 1个 / 3月（10.8-12.25）<br/><br/>
 ￥50 1个 / 6月（10.8-12.25）<br/><br/>
 ￥69 1个 / 一年（10.8-12.25）<br/><br/>
