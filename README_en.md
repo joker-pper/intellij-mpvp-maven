@@ -281,7 +281,7 @@ search.user-repository-search-result.snapshots-cache-period=1
 
 #### How to Specify The Current Used Language?
 
-You can use the default language of the system or specify the language to be used in conf. properties
+You can use the default language of the system or specify the language to be used in conf.properties
 
 
 ## How to configure Nexus access permissions?
