@@ -1,7 +1,7 @@
 # Maven With Me(MPVP) - Maven Project Version Plugin
 
 [![jetbrains_new_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27647-maven-with-me-mpvp-?label=%E2%AD%90%20Maven%20With%20Me%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/27647-maven-with-me-mpvp-)
-[![jetbrains_pro_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/29269-maven-with-me-pro-mpvp-?label=Maven%20With%20Me%20Pro%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/29269-maven-with-me-pro-mpvp-)
+[![jetbrains_pro_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/29269-maven-with-me-pro-mpvp-?label=%E2%AD%90%20Maven%20With%20Me%20Pro%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/29269-maven-with-me-pro-mpvp-)
 [![jetbrains_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/24176-mpvp-maven-?label=MPVP(Maven)%20downloads&labelColor=5d3623&color=green)](https://plugins.jetbrains.com/plugin/24176-mpvp-maven-)
 [<img alt="lang-中文" src="https://img.shields.io/badge/lang-中文-success"/>](./README.md)
 [<img alt="lang-English" src="https://img.shields.io/badge/lang-English-success"/>](./README_en.md)
@@ -53,7 +53,8 @@ QQ交流群: [550996296（点击加群）](http://qm.qq.com/cgi-bin/qm/qr?_wv=10
 
 [![jetbrains_maven_update_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27628-maven-update-mpvp-?label=Maven%20Update%20downloads&color=green)](https://plugins.jetbrains.com/plugin/27628-maven-update-mpvp-)
 [![jetbrains_maven_search_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27627-maven-search-mpvp-?label=Maven%20Search%20downloads&color=green)](https://plugins.jetbrains.com/plugin/27627-maven-search-mpvp-)
-
+[![jetbrains_maven_update_pro_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/29271-maven-update-pro-mpvp-?label=Maven%20Update%20Pro%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/29271-maven-update-pro-mpvp-)
+[![jetbrains_maven_search_pro_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/29270-maven-search-pro-mpvp-?label=Maven%20Search%20Pro%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/29270-maven-search-pro-mpvp-)
 <hr/>
 
 ## 前言
