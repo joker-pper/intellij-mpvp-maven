@@ -270,6 +270,9 @@ search.user-repository-search-result.snapshots-cache-period=1
 # Copy Gradle coordinates in Kotlin format, default to false if not configured
 #gradle-coordinate-copy-with-kotlin=false
 
+# Whether to enable support (Copy shortcut keys through keyboard) for selecting multi row copying (maintaining the original mechanism) and support for copying single row and single column result values. If not configured, default to false
+#enable-search-version-table-input-key-enhance-copy=true
+
 ```
 
 ### Internal System Language

@@ -13,11 +13,8 @@
 </div>
 
 Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章.
-<br/>
-<br/>
-Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version.
 
-欢迎使用 Maven With Me(MPVP)。 如果您是中国大陆以外的用户，请使用 Maven With Me Pro(MPVP)。
+<span style="color: red; font-weight: 300;">欢迎使用 Maven With Me(MPVP)。 如果您是中国大陆以外的用户，请使用 Maven With Me Pro(MPVP)。</span>
 
 <span style="color: red; font-weight: 500;">现有PRO版 -- IDEA 插件Maven With Me Pro(MPVP)可通过 JetBrains 官方激活使用，激活可享受 JetBrains 官方安全支付渠道及发票！</span>
 
@@ -74,50 +71,6 @@ QQ交流群: [550996296（点击加群）](http://qm.qq.com/cgi-bin/qm/qr?_wv=10
 
 详情: [戳这里直达](docs/Next.md)
 
-## 优惠活动
-<p style="font-size: 18px; font-weight: bold;color: red;">
- 🔥限时激活优惠（最低可至每月不到¥6）
-</p>
-
-我们提供了以下激活授权规格，您有需要可在微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）菜单 <span textstyle="" style="color: rgb(255, 76, 0)">MPVP</span>&nbsp;&gt;&nbsp;<span textstyle="" style="color: rgb(255, 76, 0)">激活链接</span> 查看详情，也可随时进行留言咨询。
-<div align="left" style="text-align: left;">
-<br/>  
-￥9.9 1个 / 1月（尝鲜版）<br/><br/>
-￥29.9 1个 / 3月（10.8-12.25）<br/><br/>
-￥50 1个 / 6月（10.8-12.25）<br/><br/>
-￥69 1个 / 一年（10.8-12.25）<br/><br/>
-</div>
-
-## 功能对比
-
-| 功能      | 试用（无授权KEY）                     | 试用（有授权KEY）     | 正常激活                  |
-|---------|--------------------------------|----------------|-----------------------|
-| **好物推荐** | 无限次数，希望大家多多支持，会影响发布试用插件频次      | 无限次数，希望大家多多支持，会影响发布试用插件频次        | 无限次数                  |
-| 更新版本    | 有效期时有限次数（每日）                   | 有效期时有限次数，多于无授权KEY次数（每日） | 无限次数                  |
-| 显示版本    | 有效期时无限次数（目前）                   | 有效期时无限次数（目前）       | 无限次数                  |
-| 搜索版本    | 有效期时有限次数（每日）                   | 有效期时有限次数，多于无授权KEY次数（每日） | 无限次数                  |
-| 徽章生成    | 无限次数（目前）                       | 无限次数（目前）       | 无限次数                  |
-| 限制使用时间段 | 有 （9.00-17.00 / 9.00-18.00及其他） | 无              | 无                     |
-| 激活有效时间  | 插件发布时默认设置                      | 申请试用时对应天数          | 申请激活时对应天数（目前可额外赠送，最高30天） |
-
-
-
-## 如何激活？
-
-搜索微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）根据菜单 <span textstyle="" style="color: rgb(255, 76, 0)">MPVP</span>&nbsp;&gt;&nbsp;<span textstyle="" style="color: rgb(255, 76, 0)">激活链接</span> 进行操作（<span style="color: rgb(255, 76, 65);">在进行正常激活时可叠加插件发布的剩余试用天数！无需额外等待插件试用到期！</span>）
-
-<span style="color: red">注：</span>如有问题，您可直接在公众号发送消息进行留言
-
-除插件发布后直接试用外，也可免费申请试用！按照公众号指引步骤即可。
-
-<span style="color: red">您也可以禁用或卸载当前插件，使用Maven With Me Pro(MPVP)版进行通过 JetBrains 官方激活​，可享14天免费试用！</span>
-
-## 如何找到操作菜单？
-
-Tools > Maven Project Version
-
-![how-to-find-plugin-menu](picture/how-to-find-plugin-menu.png)
-
 ## 特性
 
 ### 支持maven项目版本快速升级/回退
@@ -144,6 +97,36 @@ Tools > Maven Project Version
 支持英文、中文、简体中文（中国）及中文（台湾）
 
 <span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](docs/FeaturesDetail.md)
+
+
+## 如何找到操作菜单？
+
+Tools > Maven Project Version
+
+![how-to-find-plugin-menu](picture/how-to-find-plugin-menu.png)
+
+## 功能对比
+
+| 功能      | 试用（无授权KEY）                     | 试用（有授权KEY）     | 正常激活                  |
+|---------|--------------------------------|----------------|-----------------------|
+| **好物推荐** | 无限次数，希望大家多多支持，会影响发布试用插件频次      | 无限次数，希望大家多多支持，会影响发布试用插件频次        | 无限次数                  |
+| 更新版本    | 有效期时有限次数（每日）                   | 有效期时有限次数，多于无授权KEY次数（每日） | 无限次数                  |
+| 显示版本    | 有效期时无限次数（目前）                   | 有效期时无限次数（目前）       | 无限次数                  |
+| 搜索版本    | 有效期时有限次数（每日）                   | 有效期时有限次数，多于无授权KEY次数（每日） | 无限次数                  |
+| 徽章生成    | 无限次数（目前）                       | 无限次数（目前）       | 无限次数                  |
+| 限制使用时间段 | 有 （9.00-17.00 / 9.00-18.00及其他） | 无              | 无                     |
+| 激活有效时间  | 插件发布时默认设置                      | 申请试用时对应天数          | 申请激活时对应天数（目前可额外赠送，最高30天） |
+
+
+## 如何激活？
+
+搜索微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）根据菜单 <span textstyle="" style="color: rgb(255, 76, 0)">MPVP</span>&nbsp;&gt;&nbsp;<span textstyle="" style="color: rgb(255, 76, 0)">激活链接</span> 进行操作（<span style="color: rgb(255, 76, 65);">在进行正常激活时可叠加插件发布的剩余试用天数！无需额外等待插件试用到期！</span>）
+
+<span style="color: red">注：</span>如有问题，您可直接在公众号发送消息进行留言
+
+除插件发布后直接试用外，也可免费申请试用！按照公众号指引步骤即可。
+
+<span style="color: red">您也可以禁用或卸载当前插件，使用Maven With Me Pro(MPVP)版进行通过 JetBrains 官方激活，可享14天免费试用！</span>
 
 ## 如何配置Nexus访问权限？
 
