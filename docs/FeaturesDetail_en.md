@@ -26,9 +26,9 @@ If you encounter a situation where your project does not support it (possibly in
 <br/>
 <br/>
 
-![update-version_en](picture/update-version_en.png)
+![update-version_en](../picture/update-version_en.png)
 
-![update-version-result_en](picture/update-version-result_en.png)
+![update-version-result_en](../picture/update-version-result_en.png)
 
 
 + Default Strategy (recommend)
@@ -62,15 +62,15 @@ If Not Checked: The text value in the new version input box is directly used as 
 
 You can directly display version values in the project view, knowing the current version at a glance and providing the ability to customize display rules (the ${v} is a fixed version value expression).
 
-![show-version_en](picture/show-version_en.png)
+![show-version_en](../picture/show-version_en.png)
 
 #### project view
 
-![show-version-project-view](picture/show-version-project-view.png)
+![show-version-project-view](../picture/show-version-project-view.png)
 
 #### structure view
 
-![show-version-structure-view.png](picture/show-version-structure-view.png)
+![show-version-structure-view.png](../picture/show-version-structure-view.png)
 
 ### Maven Project Version Search
 
@@ -94,15 +94,15 @@ Nexus repository query increases cache (memory level) to reduce query detail req
 
 #### Central Repository
 
-![search-version-central_en](picture/search-version-central_en.png)
+![search-version-central_en](../picture/search-version-central_en.png)
 
-![search-version-central-result_en](picture/search-version-central-result_en.png)
+![search-version-central-result_en](../picture/search-version-central-result_en.png)
 
 #### Nexus Repository (remote/private)
 
-![search-version-nexus_en](picture/search-version-nexus_en.png)
+![search-version-nexus_en](../picture/search-version-nexus_en.png)
 
-![search-version-nexus-result_en](picture/search-version-nexus-result_en.png)
+![search-version-nexus-result_en](../picture/search-version-nexus-result_en.png)
 
 
 ### Maven Project Version Badge
@@ -119,9 +119,9 @@ Provide the ability to quickly enter groupId and artifactId (e.g: by pasting Mav
 
 Markdown (with URL) provides built-in Redirect links by default, and you can also customize and enter Redirect links
 
-![build-version-badge_en](picture/build-version-badge_en.png)
+![build-version-badge_en](../picture/build-version-badge_en.png)
 
-![build-version-badge-result_en](picture/build-version-badge-result_en.png)
+![build-version-badge-result_en](../picture/build-version-badge-result_en.png)
 
 
 ### Internationalization Support

@@ -1,6 +1,6 @@
-# How to configure Nexus access permissions for IDEA plugin Maven With Me / Maven Search?
+# How to configure Nexus access permissions for IDEA plugin Maven With Me / Maven Search (including Pro version) ?
 
-[Go to Homepage](../README_en.md)
+[Go to Homepage](../README_en.md) / [Go to Pro Homepage](../pro/README_en.md)
 
 This is a scenario where when the Nexus repository has enabled permission access, Maven With Me (MPVP)/Maven Search (MPVP) will not be able to obtain data properly without permission configuration. If your Nexus repository is not configured with permissions, simply keep the plugin's default configuration.
 

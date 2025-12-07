@@ -1,6 +1,6 @@
-# IDEA插件Maven With Me / Maven Search如何配置Nexus访问权限？
+# IDEA插件Maven With Me / Maven Search （含Pro版）如何配置Nexus访问权限？
 
-[返回主页](../README.md)
+[返回主页](../README.md)  / [返回Pro主页](../pro/README.md)
 
 这里介绍的是当Nexus仓库开启了权限访问，若Maven With Me(MPVP) / Maven Search(MPVP)不进行权限配置，将无法正常获取数据的场景。若您的Nexus仓库未配置权限，则保持插件默认配置即可。
 

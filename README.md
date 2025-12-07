@@ -12,15 +12,11 @@
     <img alt="visitors" style="max-width: 100%;" src="https://count.getloli.com/get/@joker-pper.intellij-mpvp-maven?theme=original-new" />
 </div>
 
-Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章.
+## 前言
 
-<span style="color: red; font-weight: 300;">欢迎使用 Maven With Me(MPVP)。 如果您是中国大陆以外的用户，请使用 Maven With Me Pro(MPVP)。</span>
 
-<span style="color: red; font-weight: 500;">现有PRO版 -- IDEA 插件Maven With Me Pro(MPVP)可通过 JetBrains 官方激活使用，激活可享受 JetBrains 官方安全支付渠道及发票！</span>
-
-<p>注：若您使用的是Gradle，对应的IDEA 插件为 Gradle With Me(GPVP)。 如果您是中国大陆以外的用户，请使用 Gradle With Me Pro(GPVP)。</p>
-
-<hr/>
+<b>工欲善其事必先利其器！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！</b><br/><br/>
+<b>希望它能成为一款真正有价值的插件，避免大家花费更多的精力和心力在这些繁琐的流程中。当然这也需要您的支持，以便我们提供更好的服务和迭代，利他和利己不是可以共存的嘛~ 让我们一起走得更远！</b><br/>
 
 <p style="font-size: 20px; font-weight: bold; color:red;">
     新增好物推荐模块（来自淘宝/京东官方推广的商品，会比平常直接购买有一些优惠或者价格一样，也是影响发布试用插件频次的重要指标），希望大家能多多支持！
@@ -54,24 +50,18 @@ QQ交流群: [550996296（点击加群）](http://qm.qq.com/cgi-bin/qm/qr?_wv=10
 [![jetbrains_maven_search_pro_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/29270-maven-search-pro-mpvp-?label=Maven%20Search%20Pro%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/29270-maven-search-pro-mpvp-)
 <hr/>
 
-## 前言
 
-工欲善其事必先利其器！想必大家在使用maven时会经常碰到项目版本升级和依赖版本升级的问题吧。针对占用大家大量时间以及大家经常使用遇到的痛点，这款插件诞生了！！！
-轻松帮您解决搜索依赖困扰和升级版本困扰！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！<br/>
-<b>希望它能成为一款真正有价值的插件，避免大家花费更多的精力和心力在这些繁琐的流程中。当然这也需要您的支持，以便我们提供更好的服务和迭代，利他和利己不是可以共存的嘛~ 让我们一起走得更远！</b><br/>
+## 🌟IDEA 插件Maven With Me(MPVP) 是什么？
 
-<br/>
-<hr/>
+Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章。
 
-## 更新计划
+<span style="color: red; font-weight: 300;">欢迎使用 Maven With Me(MPVP)。 如果您是中国大陆以外的用户，请使用 Maven With Me Pro(MPVP)。</span>
 
-版本号: <span style="color: red">2.6.x</span>
+<span style="color: red; font-weight: 500;">现有PRO版 -- IDEA 插件Maven With Me Pro(MPVP)可通过 JetBrains 官方激活使用，激活可享受 JetBrains 官方安全支付渠道及发票！</span>
 
-预计发布时间: <span style="color: red">???</span>
+<p>注：若您使用的是Gradle，对应的IDEA 插件为 Gradle With Me(GPVP)。 如果您是中国大陆以外的用户，请使用 Gradle With Me Pro(GPVP)。</p>
 
-详情: [戳这里直达](docs/Next.md)
-
-## 特性
+## ✨核心功能
 
 ### 支持maven项目版本快速升级/回退
 
@@ -97,6 +87,15 @@ QQ交流群: [550996296（点击加群）](http://qm.qq.com/cgi-bin/qm/qr?_wv=10
 支持英文、中文、简体中文（中国）及中文（台湾）
 
 <span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](docs/FeaturesDetail.md)
+
+
+## 更新计划
+
+版本号: <span style="color: red">2.6.x</span>
+
+预计发布时间: <span style="color: red">???</span>
+
+详情: [戳这里直达](docs/Next.md)
 
 
 ## 如何找到操作菜单？
