@@ -1,6 +1,6 @@
 <p style="text-align: center; font-size: 21px; font-weight: bold;">最终用户许可协议 (“EULA”)</p>
 
-[返回主页](../README.md)
+[返回主页](../README.md) / [返回Pro主页](../pro/README.md)
 
 <p>
     <ul>
