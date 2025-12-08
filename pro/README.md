@@ -11,9 +11,6 @@
     <img alt="visitors" style="max-width: 100%;" src="https://count.getloli.com/get/@joker-pper.intellij-mpvp-maven?theme=original-new" />
 </div>
 
-<p style="font-size: 20px; font-weight: bold;">
-IDEA插件Maven With Me Pro蹬蹬蹬登场啦，Maven开发版本管理小助手！！！
-</p>
 
 ## 💡前言
 

@@ -1,4 +1,4 @@
-# Maven With Me Pro(MPVP) - Maven Project Version Plugin
+# IDEA plugin Maven With Me Pro is now available, Maven development version management assistant!!!
 
 [![jetbrains_pro_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/29269-maven-with-me-pro-mpvp-?label=%E2%AD%90%20Maven%20With%20Me%20Pro%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/29269-maven-with-me-pro-mpvp-)
 [<img alt="lang-中文" src="https://img.shields.io/badge/lang-中文-success"/>](README.md)
@@ -10,9 +10,6 @@
     <img alt="visitors" style="max-width: 100%;" src="https://count.getloli.com/get/@joker-pper.intellij-mpvp-maven?theme=original-new" />
 </div>
 
-<p style="font-size: 20px; font-weight: bold;">
-IDEA plugin Maven With Me Pro is now available, Maven development version management assistant!!!
-</p>
 
 ## 💡Preface
 
