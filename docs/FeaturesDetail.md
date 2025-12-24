@@ -126,6 +126,7 @@ Markdown(With URL)默认提供内置跳转链接，也可自定义输入跳转�
 
 无论是在项目打开，还是Git clone、Git分支切换、Git还原等场景下，自动识别切换到对应的JDK版本及配置，节省团队和个人在Git clone及Git分支存在不同JDK版本等场景需多次手动配置IDE环境等繁琐步骤及时间!
 
+其他说明：JDK Home Path中的 ~ 代表为用户主目录，用于动态识别出不同用户名下的统一路径。
 
 ![project-settings-synchronous_zh](../picture/project-settings-synchronous_zh.png)
 

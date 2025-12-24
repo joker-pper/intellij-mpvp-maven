@@ -22,7 +22,7 @@
 
 ## 🌟What is IDEA plugin Maven With Me(MPVP) ?
 
-Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version.
+Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version And supporting synchronization of SDK and other configurations.
 
 <span style="color: red; font-weight: 500;">Welcome to use the Maven With Me(MPVP). If you are a user outside China Mainland, please use Maven With Me Pro(MPVP). </span>
 

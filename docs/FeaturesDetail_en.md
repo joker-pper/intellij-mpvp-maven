@@ -130,6 +130,8 @@ Support automatic synchronization of JDK, language level specifications, and oth
 
 Whether in project opening, Git clone, Git branch switching, Git rollback, or other scenarios, automatically recognize and switch to the corresponding JDK version and configuration, saving teams and individuals the tedious steps and time of manually configuring the IDE environment multiple times in situations where there are different JDK versions in Git cloning and Git branches and other scenarios!
 
+Other instructions: The '~' in JDK Home Path represents the user's home directory, which is used to dynamically identify a unified path under different usernames.
+
 
 ![project-settings-synchronous_en](../picture/project-settings-synchronous_en.png)
 

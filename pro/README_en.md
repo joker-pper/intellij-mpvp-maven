@@ -33,11 +33,11 @@ WeChat communication group: On the WeChat official account <a style="color: rgb(
 
 ## 🌟What is IDEA plugin Maven With Me Pro(MPVP) ?
 
-<p>Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version.</p>
+<p>Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version And supporting synchronization of SDK and other configurations.</p>
 
 <p>Note: If you are using Gradle, the corresponding IDEA plugin is Gradle With Me Pro(GPVP)</p>
 
-<p>Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章。</p>
+<p>Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章及SDK相关配置同步等功能。</p>
 
 <p>注：若您使用的是Gradle，对应的IDEA 插件为 Gradle With Me Pro(GPVP)。</p>
 
@@ -69,6 +69,7 @@ Automatically synchronize JDK, language level specifications, and other configur
 
 Automatically recognize and switch to the corresponding JDK version and configuration, whether in project opening, Git clone, Git branch switching, Git rollback, or other scenarios!!! Further unify the team SDK specifications and save the tedious steps and time required for teams or individuals to manually configure IDE environments multiple times!!!  <br/>
 
+Other instructions: The '~' in JDK Home Path represents the user's home directory, which is used to dynamically identify a unified path under different usernames.
 
 <span style="color: red">Note:</span> To learn more, [please click here for detailed features](../docs/FeaturesDetail_en.md)
 

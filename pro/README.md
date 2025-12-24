@@ -33,11 +33,11 @@ QQ交流群: [550996296（点击加群）](http://qm.qq.com/cgi-bin/qm/qr?_wv=10
 
 ## 🌟IDEA 插件Maven With Me Pro(MPVP) 是什么？
 
-<p>Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version.</p>
+<p>Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version And supporting synchronization of SDK and other configurations.</p>
 
 <p>Note: If you are using Gradle, the corresponding IDEA plugin is Gradle With Me Pro(GPVP)</p>
 
-<p>Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章。</p>
+<p>Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章及SDK相关配置同步等功能。</p>
 
 <p>注：若您使用的是Gradle，对应的IDEA 插件为 Gradle With Me Pro(GPVP)。</p>
 
@@ -67,6 +67,8 @@ QQ交流群: [550996296（点击加群）](http://qm.qq.com/cgi-bin/qm/qr?_wv=10
 自动同步JDK、语言level规范等配置功能！无论是个人开发还是团队协作，一人配置，全员共享！(需要提交配置到远程仓库) <br/>
 
 无论是在项目打开，还是Git clone、Git分支切换、Git还原等场景下，自动识别切换到对应的JDK版本及配置！！！进一步统一团队SDK规范，并节省团队或个人需多次手动配置IDE环境等繁琐步骤及时间！！！ <br/>
+
+其他说明：JDK Home Path中的 ~ 代表为用户主目录，用于动态识别出不同用户名下的统一路径。
 
 <span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](../docs/FeaturesDetail_en.md)
 
