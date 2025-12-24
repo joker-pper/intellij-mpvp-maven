@@ -70,7 +70,7 @@ QQ交流群: [550996296（点击加群）](http://qm.qq.com/cgi-bin/qm/qr?_wv=10
 
 其他说明：JDK Home Path中的 ~ 代表为用户主目录，用于动态识别出不同用户名下的统一路径。
 
-<span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](../docs/FeaturesDetail_en.md)
+<span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](../docs/FeaturesDetail.md)
 
 
 ## 如何找到操作菜单？
