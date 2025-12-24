@@ -83,10 +83,11 @@ Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展
 
 支持快速生成常见Maven/Gradle项目版本的徽章 (依赖<span style="color: rgb(255, 76, 65);">shields.io</span>能力)。<span style="color: rgb(255, 76, 65);">提供常见参数使用，可快速自定义文本及颜色。</span>提供支持<span style="color: rgb(255, 76, 65);">groupId+artifactId快速输入能力</span>(如Maven pom配置或Gradle依赖配置粘贴即可)，并<span style="color: rgb(255, 76, 65);">内置常用徽章的跳转链接</span>(如发布到中央仓库release jar的版本链接)及<span style="color: rgb(255, 76, 65);">自定义跳转链接</span>，为您徽章的生成<span style="color: rgb(255, 76, 65);">提供一定的便捷</span>~
 
+### 支持项目配置同步功能
 
-### 国际化支持
+自动同步JDK、语言level规范等配置功能！无论是个人开发还是团队协作，一人配置，全员共享！(需要提交配置到远程仓库) <br/>
 
-支持英文、中文、简体中文（中国）及中文（台湾）
+无论是在项目打开，还是Git clone、Git分支切换、Git还原等场景下，自动识别切换到对应的JDK版本及配置！！！进一步统一团队SDK规范，并节省团队或个人需多次手动配置IDE环境等繁琐步骤及时间！！！ <br/>
 
 <span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](docs/FeaturesDetail.md)
 

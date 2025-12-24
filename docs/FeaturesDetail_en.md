@@ -124,6 +124,16 @@ Markdown (with URL) provides built-in Redirect links by default, and you can als
 ![build-version-badge-result_en](../picture/build-version-badge-result_en.png)
 
 
+### Project Settings Synchronous
+
+Support automatic synchronization of JDK, language level specifications, and other configurations to further unify team SDK specifications. One person configuration, shared by all staff! (Need to submit configuration to remote repository)
+
+Whether in project opening, Git clone, Git branch switching, Git rollback, or other scenarios, automatically recognize and switch to the corresponding JDK version and configuration, saving teams and individuals the tedious steps and time of manually configuring the IDE environment multiple times in situations where there are different JDK versions in Git cloning and Git branches and other scenarios!
+
+
+![project-settings-synchronous_en](../picture/project-settings-synchronous_en.png)
+
+
 ### Internationalization Support
 
 Supports English, Chinese, Simplified Chinese (China), and Chinese (Taiwan)

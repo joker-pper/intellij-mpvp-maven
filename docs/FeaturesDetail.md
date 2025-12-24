@@ -120,6 +120,16 @@ Markdown(With URL)默认提供内置跳转链接，也可自定义输入跳转�
 
 ![build-version-badge-result_zh](../picture/build-version-badge-result_zh.png)
 
+### 项目配置同步功能
+
+支持自动同步JDK、语言level规范等配置，进一步统一团队SDK规范，一人配置，全员共享！(需要提交配置到远程仓库)
+
+无论是在项目打开，还是Git clone、Git分支切换、Git还原等场景下，自动识别切换到对应的JDK版本及配置，节省团队和个人在Git clone及Git分支存在不同JDK版本等场景需多次手动配置IDE环境等繁琐步骤及时间!
+
+
+![project-settings-synchronous_zh](../picture/project-settings-synchronous_zh.png)
+
+
 ### 国际化支持
 
 支持英文、中文、简体中文（中国）及中文（台湾）

@@ -63,6 +63,12 @@ Provide convenient search capabilities (Maven pom configuration or Gradle depend
 
 Support for quickly generating badges for common Maven/Gradle project versions (relying on <span style="color: rgb(255, 76, 65);">shields. io</span> capability).  <span style="color: rgb(255, 76, 65);">Provides common parameter usage for quickly customizing text and colors. </span>Provide support for <span style="color: rgb(255, 76, 65);">groupId+artifactId quick input capability</span>(such as Maven pom configuration or Gradle dependency configuration pasting), and <span style="color: rgb(255, 76, 65);">built-in jump links for commonly used badges</span>(such as version links published to the central repository release jar) and <span style="color: rgb(255, 76, 65);">custom jump links</span> to generate badges for you <span style="color: rgb(255, 76, 65);">Provide certain convenience</span>~
 
+### Support Project Settings Synchronous
+
+Automatically synchronize JDK, language level specifications, and other configuration features! Whether it's individual development or team collaboration, one person configuration, shared by all! (Need to submit configuration to remote repository)<br/>
+
+Automatically recognize and switch to the corresponding JDK version and configuration, whether in project opening, Git clone, Git branch switching, Git rollback, or other scenarios!!! Further unify the team SDK specifications and save the tedious steps and time required for teams or individuals to manually configure IDE environments multiple times!!!  <br/>
+
 
 <span style="color: red">Note:</span> To learn more, [please click here for detailed features](../docs/FeaturesDetail_en.md)
 
