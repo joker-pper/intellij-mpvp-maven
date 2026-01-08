@@ -65,9 +65,9 @@ Support for quickly generating badges for common Maven/Gradle project versions (
 
 ### Support Project Settings Synchronous
 
-Automatically synchronize JDK, language level specifications, and other configuration features! Whether it's individual development or team collaboration, one person configuration, shared by all! (Need to submit configuration to remote repository)<br/>
+Automatically synchronize <span style="color: rgb(255, 76, 65);">JDK</span>, language level specifications, and other configuration features! Whether it's individual development or team collaboration, <span style="color: rgb(255, 76, 65);">one person configuration, shared by all!</span> (Need to submit configuration to remote repository)<br/>
 
-Automatically recognize and switch to the corresponding JDK version and configuration, whether in project opening, Git clone, Git branch switching, Git rollback, or other scenarios!!! Further unify the team SDK specifications and save the tedious steps and time required for teams or individuals to manually configure IDE environments multiple times!!!  <br/>
+Automatically recognize and switch to the corresponding <span style="color: rgb(255, 76, 65);">JDK version</span> and configuration, whether in <span style="color: rgb(255, 76, 65);">project opening, Git clone, Git branch switching, Git rollback</span>, or other scenarios!!! <span style="color: rgb(255, 76, 65);">Further unify the team SDK specifications</span> and save the tedious steps and time required for teams or individuals to manually configure IDE environments multiple times!!!  <br/>
 
 Other instructions: The '~' in JDK Home Path represents the user's home directory, which is used to dynamically identify a unified path under different usernames.
 
