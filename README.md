@@ -96,7 +96,7 @@ Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展
 
 ## 更新计划
 
-版本号: <span style="color: red">2.7.x</span>
+版本号: <span style="color: red">2.8.x</span>
 
 预计发布时间: <span style="color: red">???</span>
 
