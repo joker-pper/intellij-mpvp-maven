@@ -1,5 +1,7 @@
 <p style="text-align: center; font-size: 21px; font-weight: bold;">最终用户许可协议 (“EULA”)</p>
 
+[中文](LICENSE.md) / [English](LICENSE_en.md)
+
 <p>
     <ul>
         <li>本 EULA 协议适用于您直接从插件下载渠道或他人转发及其他方式获取和使用我们（软件归属者）的MPVP系列软件（“软件”）。

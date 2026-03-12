@@ -8,7 +8,7 @@
 [<img alt="lang-Pro版中文" src="https://img.shields.io/badge/lang-Pro版中文-success"/>](pro/README.md)
 [<img alt="lang-Pro-English" src="https://img.shields.io/badge/lang-Pro%20English-success"/>](pro/README_en.md)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?logo=github&logoColor=white)](https://joker-pper.github.io/intellij-mpvp-maven/)
-[<img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-blue"/>](docs/LICENSE_Page.md)
+[<img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-blue"/>](docs/LICENSE_Page_en.md)
 
 <div align="center" style="text-align: center;">
     <img alt="visitors" style="max-width: 100%;" src="https://count.getloli.com/get/@joker-pper.intellij-mpvp-maven?theme=original-new" />
