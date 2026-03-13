@@ -19,7 +19,7 @@
     <li>
         This EULA applies solely to the Software we provide herein, regardless of whether other software is mentioned or described herein. These terms also apply to any updates, supplements, Internet-based services and support services we provide for the Software, unless such items are accompanied by other terms at the time of delivery.
     </li>
-    <li>Please remember to review this agreement from time to time<span style="color:#91b7e3bd"><a href="https://github.com/joker-pper/intellij-mpvp-maven/blob/main/LICENSE.md">(the online version shall prevail)</a></span>, as we may update these terms and conditions, and such updates shall take effect upon your next use of our services.
+    <li>Please remember to review this agreement from time to time<span style="color:#91b7e3bd"><a href="https://github.com/joker-pper/intellij-mpvp-maven/blob/main/LICENSE_en.md">(the online version shall prevail)</a></span>, as we may update these terms and conditions, and such updates shall take effect upon your next use of our services.
     </li>
 </ul>
 </p>
