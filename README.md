@@ -25,7 +25,7 @@
 </p>
 <hr/>
 <p style="font-size: 20px; font-weight: bold; color:red;">
-欢迎大家加入交流群，不仅能在第一时间获取最新插件资源，还能一起交流学习！
+欢迎大家加入交流群，第一时间获取插件最新资源和福利，与开发者和用户交流学习！
 </p>
 
 QQ交流群: [点击链接加入群聊](https://qm.qq.com/q/5xWIej0BG0)
