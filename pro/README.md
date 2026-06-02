@@ -1,29 +1,24 @@
-# Maven With Me(MPVP) - Maven Project Version Plugin
 
-[![jetbrains_new_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27647-maven-with-me-mpvp-?label=%E2%AD%90%20Maven%20With%20Me%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/27647-maven-with-me-mpvp-)
+# IDEA插件Maven With Me Pro蹬蹬蹬登场啦，Maven开发版本管理小助手！！！
+
 [![jetbrains_pro_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/29269-maven-with-me-pro-mpvp-?label=%E2%AD%90%20Maven%20With%20Me%20Pro%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/29269-maven-with-me-pro-mpvp-)
-[![jetbrains_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/24176-mpvp-maven-?label=MPVP(Maven)%20downloads&labelColor=5d3623&color=green)](https://plugins.jetbrains.com/plugin/24176-mpvp-maven-)
-[<img alt="lang-中文" src="https://img.shields.io/badge/lang-中文-success"/>](./README.md)
-[<img alt="lang-English" src="https://img.shields.io/badge/lang-English-success"/>](./README_en.md)
-[<img alt="lang-Pro版中文" src="https://img.shields.io/badge/lang-Pro版中文-success"/>](pro/README.md)
-[<img alt="lang-Pro-English" src="https://img.shields.io/badge/lang-Pro%20English-success"/>](pro/README_en.md)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?logo=github&logoColor=white)](https://joker-pper.github.io/intellij-mpvp-maven/)
-[<img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-blue"/>](docs/LICENSE_Page.md)
+[<img alt="lang-中文" src="https://img.shields.io/badge/lang-中文-success"/>](README.md)
+[<img alt="lang-English" src="https://img.shields.io/badge/lang-English-success"/>](README_en.md)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222?logo=github&logoColor=white)](https://joker-pper.github.io/intellij-mpvp-maven/pro)
+[<img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-blue"/>](../docs/LICENSE_Page.md)
 
 <div align="center" style="text-align: center;">
     <img alt="visitors" style="max-width: 100%;" src="https://count.getloli.com/get/@joker-pper.intellij-mpvp-maven?theme=original-new" />
 </div>
 
-## 前言
 
+## 💡前言
 
 <b>工欲善其事必先利其器！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！</b><br/><br/>
 <b>希望它能成为一款真正有价值的插件，避免大家花费更多的精力和心力在这些繁琐的流程中。当然这也需要您的支持，以便我们提供更好的服务和迭代，利他和利己不是可以共存的嘛~ 让我们一起走得更远！</b><br/>
 
-<p style="font-size: 20px; font-weight: bold; color:red;">
-    新增好物推荐模块（来自淘宝/京东官方推广的商品，会比平常直接购买有一些优惠或者价格一样，也是影响发布试用插件频次的重要指标），希望大家能多多支持！
-</p>
 <hr/>
+
 <p style="font-size: 20px; font-weight: bold; color:red;">
 欢迎大家加入交流群，第一时间获取插件最新资源和福利，与开发者和用户交流学习！
 </p>
@@ -32,36 +27,20 @@ QQ交流群: [点击链接加入群聊](https://qm.qq.com/q/5xWIej0BG0)
 
 微信交流群: 在微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）直接留言<span textstyle="" style="color: rgb(255, 76, 0)">“微信群”</span>即可获取
 
-<p style="font-size: 15px; font-weight: 500; color:red;">福利：加群可申请解锁最大试用次数，关注公众号可申请解锁最大试用时间段</p>
 
+<br/>
 <hr/>
 
-<p style="font-size: 15px; font-weight: bold;">
-插件“MPVP(Maven)”已变更为<span style="color: rgb(255, 76, 65);">“Maven With Me(MPVP)”</span>插件，后续“MPVP(Maven)”将不再维护。
+## 🌟IDEA 插件Maven With Me Pro(MPVP) 是什么？
 
-建议您卸载当前安装的“MPVP(Maven)”插件（可能会和“Maven With Me(MPVP)”插件冲突）并在插件市场搜索关键字<span style="color: rgb(255, 76, 65);">“MPVP”</span>切换为<span style="color: rgb(255, 76, 65);">“Maven With Me(MPVP)”</span>插件。
-</p>
+<p>Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version And supporting synchronization of SDK and other configurations.</p>
 
-<hr/>
+<p>Note: If you are using Gradle, the corresponding IDEA plugin is Gradle With Me Pro(GPVP)</p>
 
-> 细分插件
+<p>Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章及SDK相关配置同步等功能。</p>
 
-[![jetbrains_maven_update_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27628-maven-update-mpvp-?label=Maven%20Update%20downloads&color=green)](https://plugins.jetbrains.com/plugin/27628-maven-update-mpvp-)
-[![jetbrains_maven_search_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/27627-maven-search-mpvp-?label=Maven%20Search%20downloads&color=green)](https://plugins.jetbrains.com/plugin/27627-maven-search-mpvp-)
-[![jetbrains_maven_update_pro_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/29271-maven-update-pro-mpvp-?label=Maven%20Update%20Pro%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/29271-maven-update-pro-mpvp-)
-[![jetbrains_maven_search_pro_plugin_downloads](https://img.shields.io/jetbrains/plugin/d/29270-maven-search-pro-mpvp-?label=Maven%20Search%20Pro%20downloads&labelColor=ff4c41&color=green)](https://plugins.jetbrains.com/plugin/29270-maven-search-pro-mpvp-)
-<hr/>
+<p>注：若您使用的是Gradle，对应的IDEA 插件为 Gradle With Me Pro(GPVP)。</p>
 
-
-## 🌟IDEA 插件Maven With Me(MPVP) 是什么？
-
-Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章及SDK相关配置同步等功能。
-
-<span style="color: red; font-weight: 500;">欢迎使用 Maven With Me(MPVP)。 如果您是中国大陆以外的用户，请使用 Maven With Me Pro(MPVP)。</span>
-
-<span style="color: red; font-weight: 500;">现有PRO版 -- IDEA 插件Maven With Me Pro(MPVP)可通过 JetBrains 官方激活使用，激活可享受 JetBrains 官方安全支付渠道及发票！</span>
-
-<p>注：若您使用的是Gradle，对应的IDEA 插件为 Gradle With Me(GPVP)。 如果您是中国大陆以外的用户，请使用 Gradle With Me Pro(GPVP)。</p>
 
 ## ✨核心功能
 
@@ -91,55 +70,18 @@ Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展
 
 其他说明：JDK Home Path中的 ~ 代表为用户主目录，用于动态识别出不同用户名下的统一路径。
 
-<span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](docs/FeaturesDetail.md)
-
-
-## 更新计划
-
-版本号: <span style="color: red">2.9.x</span>
-
-预计发布时间: <span style="color: red">???</span>
-
-详情: [戳这里直达](docs/Next.md)
+<span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](../docs/FeaturesDetail.md)
 
 
 ## 如何找到操作菜单？
 
 Tools > Maven Project Version
 
-![how-to-find-plugin-menu](picture/how-to-find-plugin-menu.png)
-
-## 功能对比
-
-| 功能      | **未激活**                       | 试用（无授权KEY）                     | 试用（有授权KEY）    | 正常激活                 |
-|---------|---------------------------|--------------------------------|---------------|----------------------|
-| **好物推荐** | 无限次数，希望大家多多支持，会影响发布试用插件频次 | 无限次数，希望大家多多支持，会影响发布试用插件频次    | 无限次数，希望大家多多支持，会影响发布试用插件频次       | 无限次数                 |
-| 更新版本    | 无次数                       | 有效期时有限次数（每日）                   | 有效期时有限次数，多于无授权KEY次数（每日） | 无限次数                 |
-| 显示版本    | 无次数                       | 有效期时无限次数（目前）                   | 有效期时无限次数（目前）      | 无限次数                 |
-| 搜索版本    | 无次数                       | 有效期时有限次数（每日）                   | 有效期时有限次数，多于无授权KEY次数（每日） | 无限次数                 |
-| 徽章生成    | 无限次数（目前）                        | 无限次数（目前）                       | 无限次数（目前）      | 无限次数                 |
-| 项目配置同步 | 无次数                       | 有效期时无限次数（目前）                   | 有效期时无限次数（目前）              | 无限次数                     |
-| 限制使用时间段 | 无                         | 有 （9.00-17.00 / 9.00-18.00及其他） | 无             | 无                    |
-| 激活有效时间  | --                        | 插件发布时默认设置                 | 申请试用时对应天数         | 申请激活时对应天数（目前可额外赠送，最高30天） |
-
-
-## 如何激活？
-
-搜索微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）根据菜单 <span textstyle="" style="color: rgb(255, 76, 0)">MPVP</span>&nbsp;&gt;&nbsp;<span textstyle="" style="color: rgb(255, 76, 0)">激活链接</span> 进行操作（<span style="color: rgb(255, 76, 65);">在进行正常激活时可叠加插件发布的剩余试用天数！无需额外等待插件试用到期！</span>）
-
-<span style="color: red">注：</span>如有问题，您可直接在公众号发送消息进行留言
-
-除插件发布后直接试用外，也可免费申请试用！按照公众号指引步骤即可。
-
-<span style="color: red">您也可以禁用或卸载当前插件，使用Maven With Me Pro(MPVP)版进行通过 JetBrains 官方激活，可享14天免费试用！</span>
+![how-to-find-plugin-menu](https://joker-pper.github.io/intellij-mpvp-maven/picture/how-to-find-plugin-menu.png)
 
 ## 如何配置Nexus访问权限？
 
-[IDEA插件Maven With Me / Maven Search如何配置Nexus访问权限？](docs/how-to-configure-nexus-access-permissions_zh.md)
-
-## 使用视频分享
-
-[【使用IDEA插件MPVP(Maven)进行多模块的更新及显示版本】](https://www.bilibili.com/video/BV18QoLYkEjD?vd_source=05374f268767300c92677818cbbdf95d)
+[IDEA插件Maven With Me Pro如何配置Nexus访问权限？](../docs/how-to-configure-nexus-access-permissions_zh.md)
 
 ## 其他
 
@@ -152,6 +94,7 @@ Tools > Maven Project Version
 + 项目配置: 用户项目工作目录/.idea/mpvp/conf.properties (优先级最高)
 
 支持配置如下：
+
 
 ```
 # 自定义使用语言

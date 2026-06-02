@@ -1,5 +1,5 @@
 
-[返回主页](../README.md) 
+[返回主页](../README.md) / [返回Pro主页](../pro/README.md)
 
 ## 特性详情
 
@@ -25,9 +25,9 @@
 <br/>
 <br/>
 
-![update-version_zh](picture/update-version_zh.png)
+![update-version_zh](../picture/update-version_zh.png)
 
-![update-version-result_zh](picture/update-version-result_zh.png)
+![update-version-result_zh](../picture/update-version-result_zh.png)
 
 + 默认策略 （推荐）
 
@@ -60,15 +60,15 @@
 
 可直接在项目视图中展示版本值，一眼便能知晓当下版本~ 并提供自定义展示规则能力（其中${v}为固定版本值表达式）。
 
-![show-version_zh](picture/show-version_zh.png)
+![show-version_zh](../picture/show-version_zh.png)
 
 #### 项目视图展示
 
-![show-version-project-view](picture/show-version-project-view.png)
+![show-version-project-view](../picture/show-version-project-view.png)
 
 #### 结构视图展示
 
-![show-version-structure-view.png](picture/show-version-structure-view.png)
+![show-version-structure-view.png](../picture/show-version-structure-view.png)
 
 ### Maven项目版本搜索
 
@@ -92,15 +92,15 @@ Nexus仓库查询增加缓存（内存级）减少一定时间内的查询详细
 
 #### 中央仓库
 
-![search-version-central_zh](picture/search-version-central_zh.png)
+![search-version-central_zh](../picture/search-version-central_zh.png)
 
-![search-version-central-result_zh](picture/search-version-central-result_zh.png)
+![search-version-central-result_zh](../picture/search-version-central-result_zh.png)
 
 #### Nexus仓库 (远程/私服)
 
-![search-version-nexus_zh](picture/search-version-nexus_zh.png)
+![search-version-nexus_zh](../picture/search-version-nexus_zh.png)
 
-![search-version-nexus-result_zh](picture/search-version-nexus-result_zh.png)
+![search-version-nexus-result_zh](../picture/search-version-nexus-result_zh.png)
 
 ### Maven项目版本徽章
 
@@ -116,9 +116,20 @@ Nexus仓库查询增加缓存（内存级）减少一定时间内的查询详细
 
 Markdown(With URL)默认提供内置跳转链接，也可自定义输入跳转链接
 
-![build-version-badge_zh](picture/build-version-badge_zh.png)
+![build-version-badge_zh](../picture/build-version-badge_zh.png)
 
-![build-version-badge-result_zh](picture/build-version-badge-result_zh.png)
+![build-version-badge-result_zh](../picture/build-version-badge-result_zh.png)
+
+### 项目配置同步功能
+
+支持自动同步JDK、语言level规范等配置，进一步统一团队SDK规范，一人配置，全员共享！(需要提交配置到远程仓库)
+
+无论是在项目打开，还是Git clone、Git分支切换、Git还原等场景下，自动识别切换到对应的JDK版本及配置，节省团队和个人在Git clone及Git分支存在不同JDK版本等场景需多次手动配置IDE环境等繁琐步骤及时间!
+
+其他说明：JDK Home Path中的 ~ 代表为用户主目录，用于动态识别出不同用户名下的统一路径。
+
+![project-settings-synchronous_zh](../picture/project-settings-synchronous_zh.png)
+
 
 ### 国际化支持
 
