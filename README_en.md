@@ -14,13 +14,13 @@
     <img alt="visitors" style="max-width: 100%;" src="https://count.getloli.com/get/@joker-pper.intellij-mpvp-maven?theme=original-new" />
 </div>
 
-## 💡Preface
+## 💡 Preface
 
 <b>To do a good job, one must first sharpen their tools! Lightweight and fast is our original intention, and we will definitely move forward to save you a lot of time and effort! Let more time and value stay in more important places!!!</b><br/><br/>
 <b>I hope it can become a truly valuable plugin, avoiding everyone from spending more energy and effort on these tedious processes. Of course, this also requires your support so that we can provide better services and iterations. Altruism and self-interest can coexist. Let's go further together! </b><br/>
 
 
-## 🌟What is IDEA plugin Maven With Me(MPVP) ?
+## 🌟 What is IDEA plugin Maven With Me(MPVP) ?
 
 Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version And supporting synchronization of SDK and other configurations.
 
@@ -45,7 +45,7 @@ Welcome to use the Maven With Me(MPVP). If you are a user outside China Mainland
 
 
 
-## Contact Us
+## 💬 Contact Us
 
 If you have any questions or suggestions, you can do so through the following methods:
 

@@ -14,7 +14,7 @@
     <img alt="visitors" style="max-width: 100%;" src="https://count.getloli.com/get/@joker-pper.intellij-mpvp-maven?theme=original-new" />
 </div>
 
-## 前言
+## 💡 前言
 
 
 <b>工欲善其事必先利其器！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！</b><br/><br/>
@@ -53,7 +53,7 @@ QQ交流群: [点击链接加入群聊](https://qm.qq.com/q/5xWIej0BG0)
 <hr/>
 
 
-## 🌟IDEA 插件Maven With Me(MPVP) 是什么？
+## 🌟 IDEA 插件Maven With Me(MPVP) 是什么？
 
 Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索并支持快速生成常见项目版本的徽章及SDK相关配置同步等功能。
 
@@ -63,7 +63,7 @@ Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展
 
 <p>注：若您使用的是Gradle，对应的IDEA 插件为 Gradle With Me(GPVP)。 如果您是中国大陆以外的用户，请使用 Gradle With Me Pro(GPVP)。</p>
 
-## ✨核心功能
+## ✨ 核心功能
 
 ### 支持maven项目版本快速升级/回退
 
@@ -94,7 +94,7 @@ Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展
 <span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](docs/FeaturesDetail.md)
 
 
-## 更新计划
+## 🔜 更新计划
 
 版本号: <span style="color: red">2.9.x</span>
 
@@ -103,7 +103,7 @@ Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展
 详情: [戳这里直达](docs/Next.md)
 
 
-## 如何找到操作菜单？
+## ❓如何找到操作菜单？
 
 Tools > Maven Project Version
 
@@ -123,7 +123,7 @@ Tools > Maven Project Version
 | 激活有效时间  | --                        | 插件发布时默认设置                 | 申请试用时对应天数         | 申请激活时对应天数（目前可额外赠送，最高30天） |
 
 
-## 如何激活？
+## ❓如何激活？
 
 搜索微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）根据菜单 <span textstyle="" style="color: rgb(255, 76, 0)">MPVP</span>&nbsp;&gt;&nbsp;<span textstyle="" style="color: rgb(255, 76, 0)">激活链接</span> 进行操作（<span style="color: rgb(255, 76, 65);">在进行正常激活时可叠加插件发布的剩余试用天数！无需额外等待插件试用到期！</span>）
 
@@ -133,7 +133,7 @@ Tools > Maven Project Version
 
 <span style="color: red">您也可以禁用或卸载当前插件，使用Maven With Me Pro(MPVP)版进行通过 JetBrains 官方激活，可享14天免费试用！</span>
 
-## 如何配置Nexus访问权限？
+## ❓如何配置Nexus访问权限？
 
 [IDEA插件Maven With Me / Maven Search如何配置Nexus访问权限？](docs/how-to-configure-nexus-access-permissions_zh.md)
 
@@ -141,7 +141,7 @@ Tools > Maven Project Version
 
 [【使用IDEA插件MPVP(Maven)进行多模块的更新及显示版本】](https://www.bilibili.com/video/BV18QoLYkEjD?vd_source=05374f268767300c92677818cbbdf95d)
 
-## 其他
+## 📌 其他
 
 ### conf.properties配置文件
 
@@ -201,7 +201,7 @@ search.user-repository-search-result.snapshots-cache-period=1
 可通过系统默认语言，也可在conf.properties中进行指定要使用的语言
 
 
-## 联系我们
+## 💬 联系我们
 
 如果您有任何问题或建议，可以通过以下方式：
 

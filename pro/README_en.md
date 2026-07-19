@@ -11,7 +11,7 @@
 </div>
 
 
-## 💡Preface
+## 💡 Preface
 
 <b>To do a good job, one must first sharpen their tools! Lightweight and fast is our original intention, and we will definitely move forward to save you a lot of time and effort! Let more time and value stay in more important places!!!</b><br/>
 <b>I hope it can become a truly valuable plugin, avoiding everyone from spending more energy and effort on these tedious processes. Of course, this also requires your support so that we can provide better services and iterations. Altruism and self-interest can coexist. Let's go further together! </b><br/>
@@ -31,7 +31,7 @@ WeChat communication group: On the WeChat official account <a style="color: rgb(
 <br/>
 <hr/>
 
-## 🌟What is IDEA plugin Maven With Me Pro(MPVP) ?
+## 🌟 What is IDEA plugin Maven With Me Pro(MPVP) ?
 
 <p>Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version And supporting synchronization of SDK and other configurations.</p>
 
@@ -42,7 +42,7 @@ WeChat communication group: On the WeChat official account <a style="color: rgb(
 <p>注：若您使用的是Gradle，对应的IDEA 插件为 Gradle With Me Pro(GPVP)。</p>
 
 
-## ✨Features
+## ✨ Features
 
 ### Support quick upgrade/rollback of Maven project version
 
@@ -74,19 +74,19 @@ Other instructions: The '~' in JDK Home Path represents the user's home director
 <span style="color: red">Note:</span> To learn more, [please click here for detailed features](../docs/FeaturesDetail_en.md)
 
 
-## How to find the operation menu?
+## ❓How to find the operation menu?
 
 Tools > Maven Project Version
 
 ![how-to-find-plugin-menu](../picture/how-to-find-plugin-menu.png)
 
 
-## How to configure Nexus access permissions?
+## ❓How to configure Nexus access permissions?
 
 [How to configure Nexus access permissions for IDEA plugin Maven With Me Pro?](../docs/how-to-configure-nexus-access-permissions_en.md)
 
 
-## Other
+## 📌 Other
 
 ### conf.properties
 
@@ -148,7 +148,7 @@ You can use the default language of the system or specify the language to be use
 
 
 
-## Contact Us
+## 💬 Contact Us
 
 If you have any questions or suggestions, you can do so through the following methods:
 

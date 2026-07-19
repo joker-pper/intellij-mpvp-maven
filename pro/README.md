@@ -31,7 +31,7 @@ QQ交流群: [点击链接加入群聊](https://qm.qq.com/q/5xWIej0BG0)
 <br/>
 <hr/>
 
-## 🌟IDEA 插件Maven With Me Pro(MPVP) 是什么？
+## 🌟 IDEA 插件Maven With Me Pro(MPVP) 是什么？
 
 <p>Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version And supporting synchronization of SDK and other configurations.</p>
 
@@ -42,7 +42,7 @@ QQ交流群: [点击链接加入群聊](https://qm.qq.com/q/5xWIej0BG0)
 <p>注：若您使用的是Gradle，对应的IDEA 插件为 Gradle With Me Pro(GPVP)。</p>
 
 
-## ✨核心功能
+## ✨ 核心功能
 
 ### 支持maven项目版本快速升级/回退
 
@@ -73,17 +73,17 @@ QQ交流群: [点击链接加入群聊](https://qm.qq.com/q/5xWIej0BG0)
 <span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](../docs/FeaturesDetail.md)
 
 
-## 如何找到操作菜单？
+## ❓如何找到操作菜单？
 
 Tools > Maven Project Version
 
 ![how-to-find-plugin-menu](https://joker-pper.github.io/intellij-mpvp-maven/picture/how-to-find-plugin-menu.png)
 
-## 如何配置Nexus访问权限？
+## ❓如何配置Nexus访问权限？
 
 [IDEA插件Maven With Me Pro如何配置Nexus访问权限？](../docs/how-to-configure-nexus-access-permissions_zh.md)
 
-## 其他
+## 📌 其他
 
 ### conf.properties配置文件
 
@@ -139,12 +139,12 @@ search.user-repository-search-result.snapshots-cache-period=1
 + zh_TW      中文（台湾）
 + en         英文
 
-#### 如何指定当前使用的语言？
+#### ❓如何指定当前使用的语言？
 
 可通过系统默认语言，也可在conf.properties中进行指定要使用的语言
 
 
-## 联系我们
+## 💬 联系我们
 
 如果您有任何问题或建议，可以通过以下方式：
 
