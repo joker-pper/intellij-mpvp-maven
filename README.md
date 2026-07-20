@@ -109,7 +109,7 @@ Tools > Maven Project Version
 
 ![how-to-find-plugin-menu](picture/how-to-find-plugin-menu.png)
 
-## 功能对比
+## 📝 功能对比
 
 | 功能      | **未激活**                       | 试用（无授权KEY）                     | 试用（有授权KEY）    | 正常激活                 |
 |---------|---------------------------|--------------------------------|---------------|----------------------|
@@ -125,11 +125,9 @@ Tools > Maven Project Version
 
 ## ❓如何激活？
 
-搜索微信公众号 <a style="color: rgb(255, 76, 65);" href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODk0MTA1MA==&scene=124#wechat_redirect" target="_blank">“新程快咖员”</a>（<a href="https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkyODk0MTA1MA==&mid=2247483700&idx=1&sn=2a00414552461b2235b1d4b5b6878f16&send_time=" target="_blank">点击查看二维码</a>）根据菜单 <span textstyle="" style="color: rgb(255, 76, 0)">MPVP</span>&nbsp;&gt;&nbsp;<span textstyle="" style="color: rgb(255, 76, 0)">激活链接</span> 进行操作（<span style="color: rgb(255, 76, 65);">在进行正常激活时可叠加插件发布的剩余试用天数！无需额外等待插件试用到期！</span>）
+<p>插件所属菜单 <span style="color: rgb(255, 76, 65);" >“About License”</span> 可进行申请试用、正式授权 或 通过 <span style="color: rgb(255, 76, 65);" >“授权服务”</span>（<a href="https://license.wlhhd.cn?p=Maven With Me(MPVP)" target="_blank">点击访问</a>）进行获取授权</p>
 
 <span style="color: red">注：</span>如有问题，您可直接在公众号发送消息进行留言
-
-除插件发布后直接试用外，也可免费申请试用！按照公众号指引步骤即可。
 
 <span style="color: red">您也可以禁用或卸载当前插件，使用Maven With Me Pro(MPVP)版进行通过 JetBrains 官方激活，可享14天免费试用！</span>
 
@@ -137,7 +135,7 @@ Tools > Maven Project Version
 
 [IDEA插件Maven With Me / Maven Search如何配置Nexus访问权限？](docs/how-to-configure-nexus-access-permissions_zh.md)
 
-## 使用视频分享
+## 🎥 使用视频分享
 
 [【使用IDEA插件MPVP(Maven)进行多模块的更新及显示版本】](https://www.bilibili.com/video/BV18QoLYkEjD?vd_source=05374f268767300c92677818cbbdf95d)
 
