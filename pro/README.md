@@ -12,7 +12,7 @@
 </div>
 
 
-## 💡前言
+## 💡 前言
 
 <b>工欲善其事必先利其器！ 轻便快捷是初心，势必为节省您的大量时间和心力而前行！让更多的时间和价值留在更重要的地方！！！</b><br/><br/>
 <b>希望它能成为一款真正有价值的插件，避免大家花费更多的精力和心力在这些繁琐的流程中。当然这也需要您的支持，以便我们提供更好的服务和迭代，利他和利己不是可以共存的嘛~ 让我们一起走得更远！</b><br/>
@@ -73,13 +73,13 @@ QQ交流群: [点击链接加入群聊](https://qm.qq.com/q/5xWIej0BG0)
 <span style="color: red">注：</span>如要了解更多，[请点击这里查看特性详请](../docs/FeaturesDetail.md)
 
 
-## ❓如何找到操作菜单？
+## ❓ 如何找到操作菜单？
 
 Tools > Maven Project Version
 
 ![how-to-find-plugin-menu](https://joker-pper.github.io/intellij-mpvp-maven/picture/how-to-find-plugin-menu.png)
 
-## ❓如何配置Nexus访问权限？
+## ❓ 如何配置Nexus访问权限？
 
 [IDEA插件Maven With Me Pro如何配置Nexus访问权限？](../docs/how-to-configure-nexus-access-permissions_zh.md)
 
