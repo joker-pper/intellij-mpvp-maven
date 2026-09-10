@@ -1,4 +1,4 @@
-> <p style="text-align: center; font-size: 21px; font-weight: bold;">Activation Guide</p>
+<p style="text-align: center; font-size: 21px; font-weight: bold;">Activation Guide</p>
 
 [Go to Homepage](../README_en.md) / [Go to Pro Homepage](../pro/README_en.md)
 
