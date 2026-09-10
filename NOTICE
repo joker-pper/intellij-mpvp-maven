@@ -59,15 +59,15 @@ http-request (1.0.4) - The Apache Software License, Version 2.0
 对httpclient进行一定封装,使一些常规请求操作使用起来更简单
 https://github.com/joker-pper/http-request
 
-Jackson-annotations (2.18.3) - The Apache Software License, Version 2.0
+Jackson-annotations (2.22) - The Apache Software License, Version 2.0
 Core annotations used for value types, used by Jackson data binding package.
 https://github.com/FasterXML/jackson
 
-Jackson-core (2.18.3) - The Apache Software License, Version 2.0
+Jackson-core (2.21.1) - The Apache Software License, Version 2.0
 Core Jackson processing abstractions (aka Streaming API), implementation for JSON
 https://github.com/FasterXML/jackson-core
 
-jackson-databind (2.18.3) - The Apache Software License, Version 2.0
+jackson-databind (2.21.1) - The Apache Software License, Version 2.0
 General data-binding functionality for Jackson: works on core streaming API
 https://github.com/FasterXML/jackson
 
