@@ -61,9 +61,14 @@
     <li>The central repository search function accesses data in accordance with 'robots.txt'. If the official central repository updates its policies or notifies us to stop requests, we will cooperate to disable this service immediately. Please be advised.</li>
     <li>When using the Nexus repository search function, you shall only access your own internal Nexus private repository resources; otherwise, you shall be solely responsible for all consequences.</li>
     <li>"Product Recommendations" is a monetization method for the plugin, mainly used to support the frequency of free trial updates for the plugin. Promotion links are from Taobao/JD; please place orders to support us as needed. Promotion links may not be updated in a timely manner or the corresponding activities may expire, so please refer to the actual page. In case of product-related issues, you shall be solely responsible and contact customer service on the original product platform for resolution.</li>
-    <li>We shall not bear any legal liability or compensation for any indirect, special, incidental, force majeure or consequential losses or damages arising from negligence of any features, including but not limited to data loss, system failure, service interruption, economic loss, damage to goodwill, etc. You shall be solely responsible for such losses or damages.
+    <li>
+        We shall not bear any legal liability or compensation for any indirect, special, incidental, force majeure or consequential losses or damages arising from negligence of any features, including but not limited to data loss, system failure, service interruption, economic loss, damage to goodwill, etc. You shall be solely responsible for such losses or damages.
     </li>
-    <li>All operator charges incurred while using the software, such as data traffic, broadband and telephone fees, shall be borne entirely by the user. To the extent permitted by law, our total compensation liability shall not exceed the amount already paid for the corresponding license. No compensation will be paid for any indirect losses not caused by our willful act or gross negligence.
+    <li>
+        The data you generate on your local device (such as archives and configurations) is only stored on your device. If the device is lost, damaged, or the software is uninstalled, the relevant data may not be recoverable. We recommend that you regularly back up important data yourself. We are not liable for any data loss caused by failure to back up.
+    </li>
+    <li>
+        All operator charges incurred while using the software, such as data traffic, broadband and telephone fees, shall be borne entirely by the user. To the extent permitted by law, our total compensation liability shall not exceed the amount already paid for the corresponding license. No compensation will be paid for any indirect losses not caused by our willful act or gross negligence.
     </li>
 </ul>
 </p>
@@ -81,7 +86,7 @@
 
 <p>
     <ul>
-        <li>This software is an anonymously activated offline software. To optimize user experience, troubleshoot program failures and count usage statistics, we only collect data within a necessary scope based on the principle of minimum necessity.</li>
+        <li>This software does not require account creation or login. To optimize user experience, troubleshoot program failures and count usage statistics, we only collect data within a necessary scope based on the principle of minimum necessity. If you wish to stop data collection, you can do so by disabling the network permission of your device or using system-level privacy settings, but this may cause some features that require network access to be unavailable. You have the right to uninstall this software at any time to terminate all data interactions.</li>  
         <li>Mandatory information for license activation (only used for authorization verification and issuing authorization KEY), as follows:
         <br>
               Software Machine SerialNumber: The software serial number is generated from system device information and acts as the activation identifier. It is only used to identify the device, and no sensitive personal information will be extracted.
@@ -140,6 +145,9 @@
     </li>
     <li>
         After the user completes the legal activation and authorization, the user may normally use the existing version of this software in compliance with applicable regulations. We will make every effort to provide technical support to resolve issues such as activation failures and abnormal program operation. To the fullest extent permitted by applicable law, we shall only provide troubleshooting services and shall not be liable for compensation for any direct or indirect losses caused by factors beyond our willful fault, including hardware and software environment issues, system incompatibility and improper user operations.
+    </li>
+    <li>
+        We reserve the right to change the access mechanism in future software updates, including but not limited to introducing mandatory login requirements. In such cases, we will notify users in advance and provide a reasonable transition period.
     </li>
     <li>
         We may assign our rights and obligations under this EULA to other entities, which shall not affect your rights and obligations under this EULA. You shall not assign any rights or obligations under this EULA to any other person without our prior written consent.
