@@ -61,14 +61,16 @@ Method 3:
 Visit the Pro Edition License page to obtain a 14-Day Trial.
 
 Maven With Me Pro(MPVP)
+
 https://plugins.jetbrains.com/plugin/29269-maven-with-me-pro-mpvp-/pricing?noRedirect=true
 
 Maven Search Pro(MPVP)
+
 https://plugins.jetbrains.com/plugin/29270-maven-search-pro-mpvp-/pricing?noRedirect=true
 
 Maven Update Pro(MPVP)
-https://plugins.jetbrains.com/plugin/29271-maven-update-pro-mpvp-/pricing?noRedirect=true
 
+https://plugins.jetbrains.com/plugin/29271-maven-update-pro-mpvp-/pricing?noRedirect=true
 
 <span style="color: rgb(255, 104, 39); font-weight: bold;">Note: A normal network connection is required for the trial (the intranet may not be supported). You can first try the trial on your personal computer [if the project has strict requirements that prevent copying it to a personal computer, please pay attention to the red line and the project's usage compliance] and then decide whether to perform the official activation in the intranet environment.</span>
 

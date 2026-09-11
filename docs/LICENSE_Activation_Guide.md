@@ -1,5 +1,5 @@
 
-<p style="text-align: center; font-size: 21px; font-weight: bold;">激活说明</p>
+<p style="text-align: center; font-size: 21px; font-weight: bold;">激活指南</p>
 
 [返回主页](../README.md) / [返回Pro主页](../pro/README.md)
 

@@ -1,5 +1,5 @@
 
-<p style="text-align: center; font-size: 21px; font-weight: bold;">激活说明</p>
+<p style="text-align: center; font-size: 21px; font-weight: bold;">激活指南</p>
 
 [返回主页](../README.md) / [返回Pro主页](../pro/README.md)
 
@@ -62,14 +62,16 @@ Tools > Maven Project Version(search)
 访问Pro Edition License 页面进行获取 14-Day Trial
 
 Maven With Me Pro(MPVP)
+
 https://plugins.jetbrains.com/plugin/29269-maven-with-me-pro-mpvp-/pricing?noRedirect=true
 
 Maven Search Pro(MPVP)
+
 https://plugins.jetbrains.com/plugin/29270-maven-search-pro-mpvp-/pricing?noRedirect=true
 
 Maven Update Pro(MPVP)
-https://plugins.jetbrains.com/plugin/29271-maven-update-pro-mpvp-/pricing?noRedirect=true
 
+https://plugins.jetbrains.com/plugin/29271-maven-update-pro-mpvp-/pricing?noRedirect=true
 
 <span style="color: rgb(255, 104, 39); font-weight: bold;">注： 试用时需要正常网络链接（内网可能不支持，您可在个人电脑中先进行试用体验【若项目有严格要求不能复制到个人电脑，请注意红线及使用合规的项目】再决定是否进行内网环境的正式激活）</span>
 
