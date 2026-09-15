@@ -52,6 +52,12 @@ Please go to the [WeChat Official Account] <a style="color: rgb(255, 76, 65);" h
 
 <span style="color: rgb(255, 104, 39); font-weight: bold;">Note: A normal network connection is required for the trial (the intranet may not be supported). You can first try the trial on your personal computer [if the project has strict requirements that prevent copying it to a personal computer, please pay attention to the red line and the project\'s usage compliance] and then decide whether to perform the official activation in the intranet environment.</span>
 
+## ❓ How to activate normally (obtain a formal Authorization KEY)?
+
+It can be done through the **Operation Menu** and select the <span style="color: rgb(255, 76, 65);">About License</span> menu. If the plugin is not officially activated or is about to expire, click the <span style="color: rgb(255, 76, 65); font-weight: 500;">link below the Authorization Status</span> to obtain a license. You can also click the <span style="color: rgb(255, 76, 65); font-weight: 500;">Activate New License</span> button, and then click the <span style="color: rgb(255, 76, 65); font-weight: 500;">How to obtain activation License</span> link in the activation dialog for more details.
+
+![apply-license](../picture/apply-license_en.png)
+
 
 ## ❓ How to Use the Authorization File After Obtaining It?
 

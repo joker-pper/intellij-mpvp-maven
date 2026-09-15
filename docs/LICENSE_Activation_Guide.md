@@ -54,6 +54,13 @@ Tools > Maven Project Version(search)
 <span style="color: rgb(255, 104, 39); font-weight: bold;">注： 试用时需要正常网络链接（内网可能不支持，您可在个人电脑中先进行试用体验【若项目有严格要求不能复制到个人电脑，请注意红线及使用合规的项目】再决定是否进行内网环境的正式激活）</span>
 
 
+## ❓ 如何正常激活（获取正式授权KEY）？
+
+可通过找到插件所属 **操作菜单** 的功能项<span style="color: rgb(255, 76, 65)">“About License”</span>菜单，若插件未正式激活或即将到期点击<span style="color: rgb(255, 76, 65); font-weight: 500;">授权状态项的右侧链接</span>可进行获取授权。也可点击<span style="color: rgb(255, 76, 65); font-weight: 500;">激活新License</span>按钮，然后在激活License对话框中点击<span style="color: rgb(255, 76, 65); font-weight: 500;">如何获取激活License</span>链接查看详细。
+
+![apply-license](../picture/apply-license_zh.png)
+
+
 ## ❓ 获取到授权文件后如何使用？
 
 注意事项： 
