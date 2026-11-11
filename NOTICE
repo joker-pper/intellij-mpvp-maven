@@ -63,17 +63,21 @@ Jackson-annotations (2.22) - The Apache Software License, Version 2.0
 Core annotations used for value types, used by Jackson data binding package.
 https://github.com/FasterXML/jackson
 
-Jackson-core (2.22.3) - The Apache Software License, Version 2.0
+Jackson-core (2.22.4) - The Apache Software License, Version 2.0
 Core Jackson processing abstractions (aka Streaming API), implementation for JSON
 https://github.com/FasterXML/jackson-core
 
-jackson-databind (2.22.3) - The Apache Software License, Version 2.0
+jackson-databind (2.22.4) - The Apache Software License, Version 2.0
 General data-binding functionality for Jackson: works on core streaming API
 https://github.com/FasterXML/jackson
 
 java type tool (1.0.1) - The Apache Software License, Version 2.0
 java type tool
 https://github.com/joker-pper/java-type-tool
+
+jsoup Java HTML Parser (1.24.1) - The MIT License
+jsoup is a Java library that simplifies working with real-world HTML and XML. It offers an easy-to-use API for URL fetching, data parsing, extraction, and manipulation using DOM API methods, CSS, and xpath selectors. jsoup implements the WHATWG HTML5 specification, and parses HTML to the same DOM as modern browsers.
+https://jsoup.org/
 
 Project Lombok (1.18.38) - MIT License
 Copyright © 2009-2025 The Project Lombok Authors, licensed under the MIT license.
